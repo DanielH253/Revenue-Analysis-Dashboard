@@ -1,5 +1,7 @@
 # Sales Performance Dashboard – Excel & Power Pivot
 
+![Dashboard Preview](Dashboard.png)
+
 ---
 
 ## Business Problem
