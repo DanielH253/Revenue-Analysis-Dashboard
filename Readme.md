@@ -80,6 +80,12 @@ The layout was designed for clarity, hierarchy, and executive readability.
 
 ---
 
+## Dynamic Data Sourcing
+To ensure project portability, I implemented a dynamic file path solution using the Excel `CELL` function and Power Query. A Named Range (`fPath`) captures the local directory string, which is then passed as a parameter into Power Query's `Source` steps.
+* **The Result:** The workbook is "self-healing"; it automatically detects its location and refreshes successfully on any machine without manual re-linking of data sources.
+
+---
+
 ## Key Insights
 
 - Revenue trends highlight a plateau in February, while showing a decline in following months, with slight fluctuations during the March-June period.

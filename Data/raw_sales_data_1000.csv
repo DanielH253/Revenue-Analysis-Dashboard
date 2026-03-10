@@ -1,0 +1,1001 @@
+order_id,order_date,customer_name,product_id,product_name,category,quantity,unit_price,country,payment_method
+1001,2024-06-21,Joy Potter,P205,Notebook,Stationery,8,3.5,Colombia,Bank Transfer
+1002,2024-01-22,Brittney Nichols,P101,Wireless Mouse,Electronics,8,15.99,USA,PayPal
+1003,2024-05-14,Danny Wright,P630,Monitor 24inch,Electronics,1,180.0,Spain,Credit Card
+1004,2024-01-14,Aaron Roth,P630,Monitor 24inch,Electronics,7,180.0,Colombia,PayPal
+1005,2024-05-21,Paige Simpson,P205,Notebook,Stationery,4,3.5,Colombia,Bank Transfer
+1006,2024-04-06,Danielle Hernandez,P630,Monitor 24inch,Electronics,6,180.0,Chile,Credit Card
+1007,2024-02-28,Andre Pierce,P630,Monitor 24inch,Electronics,5,180.0,Mexico,PayPal
+1008,2024-01-22,Robert Sanchez,P520,Mechanical Keyboard,Electronics,4,75.0,Chile,PayPal
+1009,2024-03-09,Joel Lara,P410,Desk Lamp,Furniture,4,25.0,Argentina,Bank Transfer
+1010,2024-02-15,Anthony Stephens,P310,Office Chair,Furniture,2,120.0,USA,PayPal
+1011,2024-03-16,Brent Rodriguez,P410,Desk Lamp,Furniture,1,25.0,Chile,Credit Card
+1012,2024-04-14,Ethan Mccann,P205,Notebook,Stationery,4,3.5,Argentina,Bank Transfer
+1013,2024-03-04,Brianna Johnson,P310,Office Chair,Furniture,6,120.0,Colombia,Credit Card
+1014,2024-05-27,Dennis Bridges,P205,Notebook,Stationery,6,3.5,Colombia,Bank Transfer
+1015,2024-05-16,Charles Nguyen,P310,Office Chair,Furniture,3,120.0,Chile,Bank Transfer
+1016,2024-01-03,Molly Hernandez,P410,Desk Lamp,Furniture,4,25.0,Mexico,PayPal
+1017,2024-01-07,Sandra Perez,P410,Desk Lamp,Furniture,1,25.0,Spain,PayPal
+1018,2024-04-15,Yvonne Lang,P205,Notebook,Stationery,1,3.5,Argentina,PayPal
+1019,2024-02-29,Scott Davis,P630,Monitor 24inch,Electronics,5,180.0,Mexico,Credit Card
+1020,2024-06-28,Kristine Rice,P630,Monitor 24inch,Electronics,4,180.0,Mexico,PayPal
+1021,2024-01-25,John Garza,P410,Desk Lamp,Furniture,1,25.0,Spain,Bank Transfer
+1022,2024-02-14,Kelly Mcmillan PhD,P520,Mechanical Keyboard,Electronics,5,75.0,USA,Credit Card
+1023,2024-04-01,Robert Nichols,P205,Notebook,Stationery,6,3.5,Chile,Credit Card
+1024,2024-01-24,Paul Duran,P410,Desk Lamp,Furniture,4,25.0,Colombia,Bank Transfer
+1025,2024-05-04,Amanda Wolf,P101,Wireless Mouse,Electronics,3,15.99,Canada,Bank Transfer
+1026,2024-02-02,Benjamin Evans,P520,Mechanical Keyboard,Electronics,2,75.0,Spain,Bank Transfer
+1027,2024-06-01,Krystal Williams,P310,Office Chair,Furniture,1,120.0,Colombia,PayPal
+1028,2024-03-23,Zachary Evans,P630,Monitor 24inch,Electronics,1,180.0,Mexico,Bank Transfer
+1029,2024-02-17,Michael Watson,P205,Notebook,Stationery,8,3.5,Spain,PayPal
+1030,2024-05-17,Andrew Morris,P310,Office Chair,Furniture,1,120.0,Mexico,Credit Card
+1031,2024-01-03,Jeffrey Webb,P101,Wireless Mouse,Electronics,4,15.99,USA,Credit Card
+1032,2024-03-27,Bryan Cook,P630,Monitor 24inch,Electronics,3,180.0,Mexico,Bank Transfer
+1033,2024-05-15,Veronica Ramirez,P310,Office Chair,Furniture,7,120.0,Colombia,Credit Card
+1034,2024-02-28,Albert Scott,P310,Office Chair,Furniture,7,120.0,Chile,Credit Card
+1035,2024-06-21,Billy Kemp,P520,Mechanical Keyboard,Electronics,6,75.0,USA,Bank Transfer
+1036,2024-06-06,Bradley Ramirez,P410,Desk Lamp,Furniture,1,25.0,Chile,PayPal
+1037,2024-01-29,Brandy Tucker,P410,Desk Lamp,Furniture,4,25.0,USA,Bank Transfer
+1038,2024-02-01,Nicholas Sanchez,P101,Wireless Mouse,Electronics,2,15.99,Mexico,Credit Card
+1039,2024-03-13,Amanda Johnson,P205,Notebook,Stationery,7,3.5,USA,PayPal
+1040,2024-01-19,Richard Cooley,P101,Wireless Mouse,Electronics,7,15.99,Germany,Credit Card
+1041,2024-02-19,Becky Santiago,P205,Notebook,Stationery,2,3.5,Chile,PayPal
+1042,2024-02-07,Kelly Bell,P410,Desk Lamp,Furniture,3,25.0,Colombia,Bank Transfer
+1043,2024-02-28,Lindsay Cook,P630,Monitor 24inch,Electronics,4,180.0,USA,PayPal
+1044,2024-01-11,Philip Martin,P630,Monitor 24inch,Electronics,1,180.0,Argentina,PayPal
+1045,2024-03-16,Carmen Morales,P410,Desk Lamp,Furniture,6,25.0,Argentina,PayPal
+1046,2024-03-11,Jonathan Bell,P205,Notebook,Stationery,1,3.5,Colombia,Bank Transfer
+1047,2024-01-07,Andrew Ramos,P520,Mechanical Keyboard,Electronics,1,75.0,Argentina,Credit Card
+1048,2024-03-25,Tara Reyes,P205,Notebook,Stationery,1,3.5,Colombia,Bank Transfer
+1049,2024-02-02,Richard Scott,P410,Desk Lamp,Furniture,5,25.0,Spain,Bank Transfer
+1050,2024-01-18,Francisco Guerra,P410,Desk Lamp,Furniture,8,25.0,USA,Credit Card
+1051,2024-03-22,Jennifer Brown,P410,Desk Lamp,Furniture,8,25.0,Colombia,Credit Card
+1052,2024-04-13,Gabriel Mills,P520,Mechanical Keyboard,Electronics,2,75.0,Canada,Credit Card
+1053,2024-05-23,Nicholas Brown,P310,Office Chair,Furniture,2,120.0,Germany,Bank Transfer
+1054,2024-02-08,Laurie Gray,P101,Wireless Mouse,Electronics,7,15.99,Argentina,Credit Card
+1055,2024-02-16,Heidi Green,P410,Desk Lamp,Furniture,7,25.0,Spain,Bank Transfer
+1056,2024-05-04,Amber Barrett,P101,Wireless Mouse,Electronics,1,15.99,Spain,Bank Transfer
+1057,2024-02-02,Courtney Mcpherson,P520,Mechanical Keyboard,Electronics,8,75.0,Chile,Bank Transfer
+1058,2024-04-21,Sherri Parks,P101,Wireless Mouse,Electronics,8,15.99,Mexico,Bank Transfer
+1059,2024-02-15,Amanda Smith,P630,Monitor 24inch,Electronics,7,180.0,USA,Credit Card
+1060,2024-03-07,Jennifer Russell,P410,Desk Lamp,Furniture,4,25.0,Chile,PayPal
+1061,2024-03-25,Arthur Snyder,P101,Wireless Mouse,Electronics,2,15.99,Chile,Credit Card
+1062,2024-04-25,William Johns,P205,Notebook,Stationery,3,3.5,Canada,PayPal
+1063,2024-01-18,Scott Hughes,P310,Office Chair,Furniture,7,120.0,Germany,Credit Card
+1064,2024-06-28,Justin Pierce,P410,Desk Lamp,Furniture,8,25.0,Germany,Bank Transfer
+1065,2024-05-04,Donald Mendez,P101,Wireless Mouse,Electronics,1,15.99,Colombia,Credit Card
+1066,2024-01-03,Mrs. Jacqueline Smith,P205,Notebook,Stationery,6,3.5,Mexico,Bank Transfer
+1067,2024-01-19,Jennifer Lee,P205,Notebook,Stationery,7,3.5,Mexico,PayPal
+1068,2024-05-27,Sarah Shannon,P520,Mechanical Keyboard,Electronics,3,75.0,Germany,Credit Card
+1069,2024-06-12,Ryan Aguirre,P410,Desk Lamp,Furniture,5,25.0,Mexico,PayPal
+1070,2024-03-13,Connie Richards,P520,Mechanical Keyboard,Electronics,3,75.0,Colombia,Credit Card
+1071,2024-04-23,Martha Jackson,P410,Desk Lamp,Furniture,1,25.0,Germany,PayPal
+1072,2024-06-11,Jeremiah Allen,P205,Notebook,Stationery,3,3.5,Argentina,Credit Card
+1073,2024-02-22,Michael Russell,P520,Mechanical Keyboard,Electronics,2,75.0,Colombia,PayPal
+1074,2024-01-24,Mark Day,P520,Mechanical Keyboard,Electronics,5,75.0,Mexico,PayPal
+1075,2024-05-31,Mandy Williams,P310,Office Chair,Furniture,2,120.0,USA,PayPal
+1076,2024-04-08,Michael Thompson,P410,Desk Lamp,Furniture,7,25.0,Argentina,Credit Card
+1077,2024-04-03,Spencer Dudley PhD,P410,Desk Lamp,Furniture,1,25.0,Spain,PayPal
+1078,2024-03-12,Dawn Bryan,P101,Wireless Mouse,Electronics,2,15.99,Mexico,PayPal
+1079,2024-02-02,Timothy Diaz,P520,Mechanical Keyboard,Electronics,1,75.0,Germany,Credit Card
+1080,2024-02-15,Victoria Shea,P310,Office Chair,Furniture,5,120.0,Mexico,Credit Card
+1081,2024-05-02,Hayley Robertson,P410,Desk Lamp,Furniture,1,25.0,Chile,Credit Card
+1082,2024-01-02,Michael Gamble,P310,Office Chair,Furniture,8,120.0,Mexico,Bank Transfer
+1083,2024-02-17,Sarah Galloway,P410,Desk Lamp,Furniture,4,25.0,Canada,Credit Card
+1084,2024-03-20,Holly Owen,P410,Desk Lamp,Furniture,2,25.0,Argentina,Credit Card
+1085,2024-02-26,Joseph Bowers,P520,Mechanical Keyboard,Electronics,8,75.0,USA,PayPal
+1086,2024-01-05,Nicole Cooper,P205,Notebook,Stationery,8,3.5,Mexico,Bank Transfer
+1087,2024-06-24,Daniel Owen,P520,Mechanical Keyboard,Electronics,5,75.0,Colombia,Bank Transfer
+1088,2024-05-24,Diana Jarvis,P410,Desk Lamp,Furniture,6,25.0,USA,Bank Transfer
+1089,2024-06-26,Allison Johnson,P410,Desk Lamp,Furniture,6,25.0,USA,Credit Card
+1090,2024-05-23,Jennifer Gonzalez,P410,Desk Lamp,Furniture,2,25.0,Chile,Bank Transfer
+1091,2024-01-09,Jacob George,P630,Monitor 24inch,Electronics,1,180.0,Canada,Bank Transfer
+1092,2024-02-12,Steven May,P101,Wireless Mouse,Electronics,3,15.99,USA,Bank Transfer
+1093,2024-04-12,Casey Lara,P520,Mechanical Keyboard,Electronics,2,75.0,USA,PayPal
+1094,2024-05-19,Andrew Wright,P520,Mechanical Keyboard,Electronics,5,75.0,Argentina,PayPal
+1095,2024-02-19,Richard Henderson,P630,Monitor 24inch,Electronics,8,180.0,Colombia,Credit Card
+1096,2024-03-28,Lynn Rogers,P205,Notebook,Stationery,2,3.5,Argentina,PayPal
+1097,2024-06-06,Timothy Garcia,P520,Mechanical Keyboard,Electronics,4,75.0,Colombia,PayPal
+1098,2024-05-17,Katie Davis,P101,Wireless Mouse,Electronics,6,15.99,Canada,Credit Card
+1099,2024-01-20,Edgar Weaver,P410,Desk Lamp,Furniture,8,25.0,Germany,PayPal
+1100,2024-02-23,Anne Gonzalez,P520,Mechanical Keyboard,Electronics,7,75.0,Chile,Credit Card
+1101,2024-02-04,Pamela Copeland,P310,Office Chair,Furniture,1,120.0,Canada,PayPal
+1102,2024-05-06,Shane Nunez,P205,Notebook,Stationery,7,3.5,Germany,PayPal
+1103,2024-02-07,Michael Scott,P630,Monitor 24inch,Electronics,6,180.0,Mexico,Credit Card
+1104,2024-01-13,Emily Kelly,P310,Office Chair,Furniture,1,120.0,Colombia,Bank Transfer
+1105,2024-03-07,Walter Wilson,P520,Mechanical Keyboard,Electronics,4,75.0,Argentina,Credit Card
+1106,2024-03-18,Paul Case,P520,Mechanical Keyboard,Electronics,3,75.0,Colombia,Credit Card
+1107,2024-01-22,Darlene Smith,P410,Desk Lamp,Furniture,7,25.0,Germany,Credit Card
+1108,2024-01-27,Matthew Perez,P205,Notebook,Stationery,2,3.5,Germany,Credit Card
+1109,2024-02-06,Scott Dawson,P410,Desk Lamp,Furniture,8,25.0,Spain,Bank Transfer
+1110,2024-05-07,Jordan Lopez,P520,Mechanical Keyboard,Electronics,5,75.0,Chile,Bank Transfer
+1111,2024-03-02,Christopher Rollins,P630,Monitor 24inch,Electronics,2,180.0,Colombia,Credit Card
+1112,2024-05-16,Nathaniel Benson,P520,Mechanical Keyboard,Electronics,3,75.0,Spain,PayPal
+1113,2024-01-23,Kevin Valdez,P101,Wireless Mouse,Electronics,5,15.99,Mexico,Credit Card
+1114,2024-01-06,William Ochoa,P630,Monitor 24inch,Electronics,1,180.0,USA,PayPal
+1115,2024-06-22,Howard Singh,P410,Desk Lamp,Furniture,5,25.0,Germany,Credit Card
+1116,2024-06-03,Jordan Holmes,P520,Mechanical Keyboard,Electronics,4,75.0,Chile,Credit Card
+1117,2024-01-21,Jason Crosby,P410,Desk Lamp,Furniture,3,25.0,Spain,PayPal
+1118,2024-06-18,Christopher Miller,P630,Monitor 24inch,Electronics,8,180.0,Colombia,PayPal
+1119,2024-06-16,Lori Baldwin,P310,Office Chair,Furniture,4,120.0,Chile,Bank Transfer
+1120,2024-03-27,Debbie Wagner,P520,Mechanical Keyboard,Electronics,7,75.0,Colombia,Credit Card
+1121,2024-05-14,Sophia Foster,P520,Mechanical Keyboard,Electronics,7,75.0,Argentina,Bank Transfer
+1122,2024-04-02,Lisa Watson,P630,Monitor 24inch,Electronics,5,180.0,Spain,Bank Transfer
+1123,2024-06-18,Kristin Boyd,P101,Wireless Mouse,Electronics,5,15.99,Colombia,Bank Transfer
+1124,2024-05-30,Gregory Moore,P630,Monitor 24inch,Electronics,4,180.0,USA,Credit Card
+1125,2024-05-13,William Ramos,P630,Monitor 24inch,Electronics,1,180.0,Spain,Credit Card
+1126,2024-03-28,Russell Boyd,P310,Office Chair,Furniture,3,120.0,Germany,PayPal
+1127,2024-03-18,Timothy Cooper,P520,Mechanical Keyboard,Electronics,1,75.0,Chile,Bank Transfer
+1128,2024-04-26,Denise Miller,P410,Desk Lamp,Furniture,5,25.0,Colombia,Bank Transfer
+1129,2024-03-14,Raymond Butler,P101,Wireless Mouse,Electronics,2,15.99,Colombia,PayPal
+1130,2024-01-24,Dennis Hatfield,P310,Office Chair,Furniture,7,120.0,Mexico,PayPal
+1131,2024-03-25,Amy Brown,P520,Mechanical Keyboard,Electronics,3,75.0,Argentina,Bank Transfer
+1132,2024-03-21,Daniel Harrell,P310,Office Chair,Furniture,6,120.0,Argentina,Bank Transfer
+1133,2024-04-20,Jonathan Thomas,P101,Wireless Mouse,Electronics,7,15.99,Mexico,Credit Card
+1134,2024-02-03,Gene Bates,P520,Mechanical Keyboard,Electronics,7,75.0,Germany,Bank Transfer
+1135,2024-05-07,Rachel Rodriguez,P520,Mechanical Keyboard,Electronics,4,75.0,Chile,Credit Card
+1136,2024-06-19,Michael Warren,P205,Notebook,Stationery,2,3.5,Colombia,Bank Transfer
+1137,2024-06-05,Diane Paul,P410,Desk Lamp,Furniture,7,25.0,Spain,PayPal
+1138,2024-04-12,Anna Baldwin,P101,Wireless Mouse,Electronics,1,15.99,Canada,PayPal
+1139,2024-05-19,Miss Sarah Hunt,P520,Mechanical Keyboard,Electronics,2,75.0,Colombia,Credit Card
+1140,2024-05-17,Nicole Davis,P101,Wireless Mouse,Electronics,4,15.99,Colombia,PayPal
+1141,2024-06-10,William Johnson,P205,Notebook,Stationery,4,3.5,Mexico,PayPal
+1142,2024-01-15,Adrian Chen,P520,Mechanical Keyboard,Electronics,1,75.0,Spain,Bank Transfer
+1143,2024-05-17,Brandon Lynch,P205,Notebook,Stationery,6,3.5,Mexico,Bank Transfer
+1144,2024-04-01,Kyle Mitchell,P310,Office Chair,Furniture,8,120.0,Colombia,Credit Card
+1145,2024-06-13,Jesse Wilson,P310,Office Chair,Furniture,6,120.0,Spain,PayPal
+1146,2024-01-11,Matthew Mejia,P310,Office Chair,Furniture,1,120.0,Argentina,Bank Transfer
+1147,2024-06-15,Tiffany Reese,P205,Notebook,Stationery,6,3.5,Germany,Credit Card
+1148,2024-02-26,Ray Molina,P630,Monitor 24inch,Electronics,5,180.0,Mexico,PayPal
+1149,2024-06-17,Michael Hernandez,P310,Office Chair,Furniture,8,120.0,Spain,PayPal
+1150,2024-04-25,Susan Young,P520,Mechanical Keyboard,Electronics,5,75.0,Canada,PayPal
+1151,2024-03-04,Victor Greene,P310,Office Chair,Furniture,5,120.0,Spain,Bank Transfer
+1152,2024-03-03,Savannah Sandoval,P205,Notebook,Stationery,8,3.5,Colombia,Credit Card
+1153,2024-04-23,Rachel Nelson,P205,Notebook,Stationery,3,3.5,Mexico,Bank Transfer
+1154,2024-02-17,Corey Greene,P205,Notebook,Stationery,3,3.5,Canada,PayPal
+1155,2024-04-19,Teresa King,P410,Desk Lamp,Furniture,4,25.0,USA,Credit Card
+1156,2024-05-23,Christina Gonzalez,P205,Notebook,Stationery,4,3.5,Argentina,Bank Transfer
+1157,2024-06-10,Jeremy Owens,P520,Mechanical Keyboard,Electronics,5,75.0,Chile,Bank Transfer
+1158,2024-05-06,Shelby Cunningham,P410,Desk Lamp,Furniture,7,25.0,Canada,Credit Card
+1159,2024-04-22,John Valencia,P520,Mechanical Keyboard,Electronics,4,75.0,Canada,Credit Card
+1160,2024-04-23,Bethany Maldonado,P205,Notebook,Stationery,1,3.5,Argentina,Bank Transfer
+1161,2024-04-02,James Jenkins,P101,Wireless Mouse,Electronics,5,15.99,Canada,PayPal
+1162,2024-05-22,Michael Allen,P520,Mechanical Keyboard,Electronics,3,75.0,Spain,PayPal
+1163,2024-02-04,Xavier Smith,P101,Wireless Mouse,Electronics,6,15.99,USA,PayPal
+1164,2024-03-24,Matthew Smith,P205,Notebook,Stationery,8,3.5,Germany,Credit Card
+1165,2024-04-24,Sarah Watts,P630,Monitor 24inch,Electronics,3,180.0,Canada,Credit Card
+1166,2024-01-06,Jasmine Thomas,P410,Desk Lamp,Furniture,8,25.0,Chile,Credit Card
+1167,2024-01-06,Lisa Parrish,P101,Wireless Mouse,Electronics,4,15.99,USA,Credit Card
+1168,2024-03-24,Rebecca Stevens,P410,Desk Lamp,Furniture,3,25.0,Mexico,Credit Card
+1169,2024-03-05,Vanessa Cervantes,P101,Wireless Mouse,Electronics,2,15.99,Canada,PayPal
+1170,2024-02-26,Amy Berger,P520,Mechanical Keyboard,Electronics,4,75.0,Argentina,PayPal
+1171,2024-03-06,Anthony Robertson,P630,Monitor 24inch,Electronics,7,180.0,Canada,Bank Transfer
+1172,2024-04-07,Jesse Osborne,P310,Office Chair,Furniture,1,120.0,Mexico,Credit Card
+1173,2024-05-01,Cody Adams,P520,Mechanical Keyboard,Electronics,2,75.0,Argentina,PayPal
+1174,2024-01-03,Ryan Conner,P520,Mechanical Keyboard,Electronics,6,75.0,Canada,PayPal
+1175,2024-06-23,Jacqueline Lane,P101,Wireless Mouse,Electronics,1,15.99,Argentina,Credit Card
+1176,2024-05-08,Jonathan Shepherd,P205,Notebook,Stationery,1,3.5,Canada,Bank Transfer
+1177,2024-03-13,Anthony Bell,P520,Mechanical Keyboard,Electronics,7,75.0,Argentina,Credit Card
+1178,2024-03-12,Mr. Jesse Rivera,P410,Desk Lamp,Furniture,6,25.0,Chile,Credit Card
+1179,2024-03-21,Rebecca Smith,P205,Notebook,Stationery,6,3.5,Chile,PayPal
+1180,2024-05-23,Christina Mcdaniel,P310,Office Chair,Furniture,2,120.0,Germany,PayPal
+1181,2024-03-23,Michelle Ross,P410,Desk Lamp,Furniture,1,25.0,Germany,Credit Card
+1182,2024-01-22,Francisco Martinez,P520,Mechanical Keyboard,Electronics,4,75.0,Colombia,PayPal
+1183,2024-05-14,Anne Ponce,P520,Mechanical Keyboard,Electronics,3,75.0,Canada,PayPal
+1184,2024-05-04,Daniel Brown,P630,Monitor 24inch,Electronics,6,180.0,Chile,Bank Transfer
+1185,2024-04-10,Ashley Pearson,P630,Monitor 24inch,Electronics,6,180.0,Argentina,Credit Card
+1186,2024-02-14,Felicia Mcguire,P630,Monitor 24inch,Electronics,5,180.0,Argentina,Bank Transfer
+1187,2024-01-27,Lisa Smith,P310,Office Chair,Furniture,1,120.0,Chile,PayPal
+1188,2024-06-06,Kerri Vaughan,P410,Desk Lamp,Furniture,3,25.0,USA,Credit Card
+1189,2024-01-24,Sherri Alvarez,P630,Monitor 24inch,Electronics,1,180.0,Canada,PayPal
+1190,2024-05-20,Kayla Anderson,P205,Notebook,Stationery,1,3.5,USA,Credit Card
+1191,2024-01-22,Nicole Powers,P310,Office Chair,Furniture,3,120.0,USA,Bank Transfer
+1192,2024-05-30,Elizabeth Cummings,P101,Wireless Mouse,Electronics,7,15.99,Argentina,Credit Card
+1193,2024-06-23,John Curry,P410,Desk Lamp,Furniture,4,25.0,Canada,PayPal
+1194,2024-05-04,Joshua Valenzuela,P410,Desk Lamp,Furniture,1,25.0,Spain,PayPal
+1195,2024-01-07,Kelsey Perez,P410,Desk Lamp,Furniture,4,25.0,Canada,Credit Card
+1196,2024-03-24,David Davis,P520,Mechanical Keyboard,Electronics,5,75.0,USA,PayPal
+1197,2024-03-01,Kathleen Lee,P630,Monitor 24inch,Electronics,2,180.0,Colombia,Credit Card
+1198,2024-03-31,Mary Taylor,P630,Monitor 24inch,Electronics,1,180.0,Chile,Credit Card
+1199,2024-02-01,Angela Vasquez,P205,Notebook,Stationery,3,3.5,Mexico,Credit Card
+1200,2024-05-21,Ryan Richardson,P630,Monitor 24inch,Electronics,6,180.0,Mexico,Credit Card
+1201,2024-01-01,Christina Wright,P310,Office Chair,Furniture,8,120.0,Spain,Credit Card
+1202,2024-01-03,Emily Morales DDS,P630,Monitor 24inch,Electronics,6,180.0,Spain,PayPal
+1203,2024-02-17,Andrew Gregory,P630,Monitor 24inch,Electronics,3,180.0,Germany,Credit Card
+1204,2024-05-31,Alexander Adams,P205,Notebook,Stationery,4,3.5,USA,Credit Card
+1205,2024-05-22,Adam Giles,P630,Monitor 24inch,Electronics,3,180.0,Spain,PayPal
+1206,2024-03-27,Gloria Wright,P205,Notebook,Stationery,4,3.5,Germany,Credit Card
+1207,2024-01-06,Amber Mcintosh,P630,Monitor 24inch,Electronics,3,180.0,Colombia,Bank Transfer
+1208,2024-04-07,Richard Gillespie,P520,Mechanical Keyboard,Electronics,5,75.0,Argentina,PayPal
+1209,2024-03-11,Ryan Edwards,P520,Mechanical Keyboard,Electronics,6,75.0,Spain,PayPal
+1210,2024-02-04,Casey Taylor,P630,Monitor 24inch,Electronics,5,180.0,Argentina,Bank Transfer
+1211,2024-03-01,Xavier Jackson,P630,Monitor 24inch,Electronics,1,180.0,Colombia,Credit Card
+1212,2024-05-19,Melissa Zamora,P520,Mechanical Keyboard,Electronics,7,75.0,Canada,PayPal
+1213,2024-03-20,Tiffany Murphy,P205,Notebook,Stationery,1,3.5,Mexico,PayPal
+1214,2024-04-19,Nicole Barnett DVM,P101,Wireless Mouse,Electronics,4,15.99,Argentina,Credit Card
+1215,2024-03-14,Roberta Brandt,P205,Notebook,Stationery,7,3.5,Spain,Bank Transfer
+1216,2024-05-31,Robin Hall,P310,Office Chair,Furniture,1,120.0,USA,Bank Transfer
+1217,2024-05-26,Taylor Snyder,P310,Office Chair,Furniture,8,120.0,Germany,PayPal
+1218,2024-06-27,Jamie Johnson,P630,Monitor 24inch,Electronics,1,180.0,Argentina,PayPal
+1219,2024-05-23,Hunter Brock,P205,Notebook,Stationery,8,3.5,Mexico,Credit Card
+1220,2024-05-05,Annette Dixon,P410,Desk Lamp,Furniture,8,25.0,Chile,PayPal
+1221,2024-06-24,Stephanie Miller,P410,Desk Lamp,Furniture,6,25.0,Argentina,Bank Transfer
+1222,2024-03-25,Jesse Gutierrez,P630,Monitor 24inch,Electronics,6,180.0,Mexico,Bank Transfer
+1223,2024-04-05,Douglas Dalton,P101,Wireless Mouse,Electronics,6,15.99,Germany,PayPal
+1224,2024-06-18,David Stanley,P520,Mechanical Keyboard,Electronics,8,75.0,USA,Credit Card
+1225,2024-05-09,Carl Elliott,P520,Mechanical Keyboard,Electronics,7,75.0,Colombia,Bank Transfer
+1226,2024-01-06,Richard Webb,P310,Office Chair,Furniture,5,120.0,Argentina,Credit Card
+1227,2024-03-18,Karen Carr,P310,Office Chair,Furniture,7,120.0,Chile,Credit Card
+1228,2024-05-20,Robert Snyder,P410,Desk Lamp,Furniture,8,25.0,Argentina,PayPal
+1229,2024-03-25,Matthew Patton,P410,Desk Lamp,Furniture,1,25.0,Germany,Bank Transfer
+1230,2024-04-23,Stacy Hodge,P520,Mechanical Keyboard,Electronics,7,75.0,Chile,PayPal
+1231,2024-04-05,Sarah Washington,P310,Office Chair,Furniture,1,120.0,Germany,PayPal
+1232,2024-04-01,Jeffrey Leonard,P520,Mechanical Keyboard,Electronics,2,75.0,USA,Credit Card
+1233,2024-06-06,Terry Ramos,P101,Wireless Mouse,Electronics,8,15.99,Argentina,Bank Transfer
+1234,2024-03-23,Kayla Silva,P410,Desk Lamp,Furniture,3,25.0,Mexico,Bank Transfer
+1235,2024-05-15,Melissa Haynes,P101,Wireless Mouse,Electronics,1,15.99,Mexico,Bank Transfer
+1236,2024-01-27,John Webb,P310,Office Chair,Furniture,8,120.0,Argentina,PayPal
+1237,2024-01-04,Elijah Phillips,P310,Office Chair,Furniture,8,120.0,Canada,Credit Card
+1238,2024-04-15,Stephanie Hawkins,P630,Monitor 24inch,Electronics,8,180.0,Chile,PayPal
+1239,2024-03-21,Travis Ray,P101,Wireless Mouse,Electronics,7,15.99,Canada,Credit Card
+1240,2024-02-02,Rita Perez,P205,Notebook,Stationery,6,3.5,Germany,Bank Transfer
+1241,2024-04-12,Jesse Lyons,P101,Wireless Mouse,Electronics,2,15.99,Colombia,Bank Transfer
+1242,2024-01-16,Valerie Fitzgerald,P310,Office Chair,Furniture,7,120.0,Argentina,Credit Card
+1243,2024-02-24,Amber Lee,P410,Desk Lamp,Furniture,1,25.0,USA,Bank Transfer
+1244,2024-04-05,Morgan Johnson,P410,Desk Lamp,Furniture,6,25.0,Argentina,Credit Card
+1245,2024-06-23,Rhonda Estrada,P101,Wireless Mouse,Electronics,4,15.99,Argentina,PayPal
+1246,2024-04-11,Jessica Hinton,P520,Mechanical Keyboard,Electronics,5,75.0,Chile,Bank Transfer
+1247,2024-02-18,Marcus Duran,P101,Wireless Mouse,Electronics,3,15.99,USA,PayPal
+1248,2024-02-16,Elizabeth Bishop,P101,Wireless Mouse,Electronics,8,15.99,Mexico,Bank Transfer
+1249,2024-01-29,Christine Harrison,P101,Wireless Mouse,Electronics,1,15.99,Canada,Bank Transfer
+1250,2024-06-08,Jasmine George,P310,Office Chair,Furniture,1,120.0,Canada,Bank Transfer
+1251,2024-03-28,Craig Wilson,P205,Notebook,Stationery,7,3.5,Argentina,Bank Transfer
+1252,2024-04-24,Adam Hood,P310,Office Chair,Furniture,7,120.0,Mexico,Bank Transfer
+1253,2024-01-10,Megan Riddle,P205,Notebook,Stationery,7,3.5,Germany,PayPal
+1254,2024-03-20,Keith Olson,P410,Desk Lamp,Furniture,8,25.0,Mexico,Bank Transfer
+1255,2024-04-08,Adam Taylor,P630,Monitor 24inch,Electronics,7,180.0,Colombia,Credit Card
+1256,2024-02-26,Christine Curtis,P410,Desk Lamp,Furniture,8,25.0,Germany,Bank Transfer
+1257,2024-02-25,Alexander Howard,P630,Monitor 24inch,Electronics,6,180.0,Colombia,Bank Transfer
+1258,2024-01-15,Terry Hoover,P520,Mechanical Keyboard,Electronics,2,75.0,Spain,Credit Card
+1259,2024-06-27,Beth Hoffman,P205,Notebook,Stationery,8,3.5,Spain,Credit Card
+1260,2024-02-28,Susan Mcintyre,P101,Wireless Mouse,Electronics,5,15.99,Colombia,Credit Card
+1261,2024-01-08,Nicole May,P205,Notebook,Stationery,5,3.5,USA,PayPal
+1262,2024-01-08,Susan Scott,P410,Desk Lamp,Furniture,6,25.0,USA,PayPal
+1263,2024-01-08,Deanna Herrera,P520,Mechanical Keyboard,Electronics,3,75.0,Argentina,Credit Card
+1264,2024-04-15,Samantha Kaufman,P101,Wireless Mouse,Electronics,2,15.99,Chile,Credit Card
+1265,2024-02-03,James Klein,P410,Desk Lamp,Furniture,8,25.0,Argentina,Credit Card
+1266,2024-06-21,Jacob Schmidt,P101,Wireless Mouse,Electronics,4,15.99,Colombia,Credit Card
+1267,2024-04-30,Jennifer Johnson,P101,Wireless Mouse,Electronics,8,15.99,Mexico,Credit Card
+1268,2024-03-29,James Alexander,P310,Office Chair,Furniture,6,120.0,USA,Bank Transfer
+1269,2024-03-20,Joshua George,P520,Mechanical Keyboard,Electronics,5,75.0,Argentina,PayPal
+1270,2024-01-09,Joseph Parker II,P101,Wireless Mouse,Electronics,4,15.99,Spain,PayPal
+1271,2024-05-28,Teresa Lara,P205,Notebook,Stationery,6,3.5,Spain,Credit Card
+1272,2024-05-16,Alyssa Hendricks,P410,Desk Lamp,Furniture,3,25.0,Mexico,Credit Card
+1273,2024-01-11,Natalie Rodriguez,P520,Mechanical Keyboard,Electronics,2,75.0,Chile,PayPal
+1274,2024-06-02,Charles Berry,P410,Desk Lamp,Furniture,8,25.0,Spain,PayPal
+1275,2024-03-26,Mr. Elijah Brown,P101,Wireless Mouse,Electronics,2,15.99,Germany,Credit Card
+1276,2024-05-30,Alexa Garza,P205,Notebook,Stationery,6,3.5,Spain,Bank Transfer
+1277,2024-02-02,Antonio Ramirez,P410,Desk Lamp,Furniture,7,25.0,Germany,PayPal
+1278,2024-03-17,William Hodges,P310,Office Chair,Furniture,2,120.0,Germany,PayPal
+1279,2024-03-06,Paul Oliver,P205,Notebook,Stationery,7,3.5,Argentina,Credit Card
+1280,2024-05-06,Andrew Peters,P205,Notebook,Stationery,8,3.5,Argentina,Credit Card
+1281,2024-06-27,Krista Cain,P410,Desk Lamp,Furniture,7,25.0,Argentina,Credit Card
+1282,2024-04-10,Shelley Gonzalez,P101,Wireless Mouse,Electronics,7,15.99,Mexico,Credit Card
+1283,2024-02-20,Aaron Barnett,P520,Mechanical Keyboard,Electronics,5,75.0,USA,Credit Card
+1284,2024-01-04,Timothy Wright,P630,Monitor 24inch,Electronics,7,180.0,Germany,PayPal
+1285,2024-02-11,Donna Holt,P101,Wireless Mouse,Electronics,8,15.99,Chile,Bank Transfer
+1286,2024-03-24,Tony Hansen,P520,Mechanical Keyboard,Electronics,4,75.0,USA,Credit Card
+1287,2024-03-04,Debra Colon,P310,Office Chair,Furniture,4,120.0,Mexico,Credit Card
+1288,2024-02-14,Katherine Lee,P101,Wireless Mouse,Electronics,8,15.99,Canada,Bank Transfer
+1289,2024-05-09,Daniel Mann,P310,Office Chair,Furniture,2,120.0,Colombia,PayPal
+1290,2024-03-08,Chad Hughes,P205,Notebook,Stationery,7,3.5,Canada,Bank Transfer
+1291,2024-06-07,Mark Ferguson,P205,Notebook,Stationery,7,3.5,USA,PayPal
+1292,2024-01-25,Leslie Russell,P630,Monitor 24inch,Electronics,4,180.0,USA,Bank Transfer
+1293,2024-01-26,Mr. James Alvarado,P520,Mechanical Keyboard,Electronics,4,75.0,Canada,Bank Transfer
+1294,2024-01-13,Bryan Wolfe,P520,Mechanical Keyboard,Electronics,1,75.0,Chile,Bank Transfer
+1295,2024-06-08,Sheila Reeves,P310,Office Chair,Furniture,7,120.0,Canada,Bank Transfer
+1296,2024-04-12,Candice White,P205,Notebook,Stationery,4,3.5,Mexico,Credit Card
+1297,2024-01-24,Sherry Johnson,P520,Mechanical Keyboard,Electronics,3,75.0,Germany,PayPal
+1298,2024-02-06,Melissa Mcdonald,P101,Wireless Mouse,Electronics,5,15.99,Mexico,Credit Card
+1299,2024-03-06,Albert Green Jr.,P520,Mechanical Keyboard,Electronics,7,75.0,Argentina,Bank Transfer
+1300,2024-04-06,Mary Gonzales,P205,Notebook,Stationery,1,3.5,Mexico,PayPal
+1301,2024-05-31,David Tran,P630,Monitor 24inch,Electronics,8,180.0,Chile,Bank Transfer
+1302,2024-05-17,Jacqueline Novak,P205,Notebook,Stationery,7,3.5,Argentina,PayPal
+1303,2024-02-01,Victoria Navarro,P630,Monitor 24inch,Electronics,5,180.0,Germany,PayPal
+1304,2024-06-07,Robert Grant,P205,Notebook,Stationery,1,3.5,USA,PayPal
+1305,2024-03-29,Alvin Scott,P101,Wireless Mouse,Electronics,6,15.99,Canada,Bank Transfer
+1306,2024-03-05,Melissa Phillips,P310,Office Chair,Furniture,2,120.0,Spain,Bank Transfer
+1307,2024-02-03,Lisa Mcdowell,P101,Wireless Mouse,Electronics,7,15.99,Mexico,Credit Card
+1308,2024-01-06,Casey Clarke,P630,Monitor 24inch,Electronics,6,180.0,Argentina,PayPal
+1309,2024-06-08,Debra Hanson,P630,Monitor 24inch,Electronics,8,180.0,Colombia,Credit Card
+1310,2024-01-23,Michelle Porter,P410,Desk Lamp,Furniture,8,25.0,Germany,Credit Card
+1311,2024-04-19,Elizabeth Bennett,P205,Notebook,Stationery,7,3.5,Canada,Credit Card
+1312,2024-02-08,Scott Ramos,P630,Monitor 24inch,Electronics,4,180.0,Spain,Bank Transfer
+1313,2024-01-09,Kellie Lewis,P310,Office Chair,Furniture,7,120.0,Germany,Credit Card
+1314,2024-01-12,Angela Wood,P205,Notebook,Stationery,1,3.5,Colombia,Bank Transfer
+1315,2024-04-22,Jonathan Combs,P205,Notebook,Stationery,3,3.5,Argentina,Bank Transfer
+1316,2024-01-24,Angela Bentley,P101,Wireless Mouse,Electronics,4,15.99,Canada,Credit Card
+1317,2024-06-09,Nicole Trevino,P630,Monitor 24inch,Electronics,6,180.0,USA,Bank Transfer
+1318,2024-03-06,Erik Edwards,P310,Office Chair,Furniture,2,120.0,Colombia,Bank Transfer
+1319,2024-02-01,Larry Bates,P520,Mechanical Keyboard,Electronics,6,75.0,Chile,Credit Card
+1320,2024-02-21,Nancy Edwards,P410,Desk Lamp,Furniture,5,25.0,Chile,Bank Transfer
+1321,2024-02-03,Miss Amanda Miller,P410,Desk Lamp,Furniture,1,25.0,Colombia,Credit Card
+1322,2024-03-16,Tristan Patton,P101,Wireless Mouse,Electronics,6,15.99,Spain,Bank Transfer
+1323,2024-05-13,Angela Williams,P410,Desk Lamp,Furniture,4,25.0,USA,Credit Card
+1324,2024-04-05,Patricia Allen,P630,Monitor 24inch,Electronics,1,180.0,Mexico,Bank Transfer
+1325,2024-01-10,Sean Noble,P310,Office Chair,Furniture,4,120.0,Spain,Bank Transfer
+1326,2024-01-18,Megan Valdez,P310,Office Chair,Furniture,7,120.0,Germany,Bank Transfer
+1327,2024-06-07,Heather Garrett,P410,Desk Lamp,Furniture,8,25.0,Mexico,Bank Transfer
+1328,2024-03-20,Evan Ray,P630,Monitor 24inch,Electronics,4,180.0,Mexico,Credit Card
+1329,2024-03-06,Steven Flowers,P520,Mechanical Keyboard,Electronics,1,75.0,Canada,Bank Transfer
+1330,2024-04-17,Scott Carey,P410,Desk Lamp,Furniture,3,25.0,Spain,Bank Transfer
+1331,2024-03-14,Douglas Knight,P310,Office Chair,Furniture,2,120.0,Spain,Credit Card
+1332,2024-03-19,David Torres,P520,Mechanical Keyboard,Electronics,8,75.0,Canada,Credit Card
+1333,2024-06-11,Adrian Powell,P520,Mechanical Keyboard,Electronics,6,75.0,Argentina,Credit Card
+1334,2024-02-25,Patricia Garcia,P310,Office Chair,Furniture,8,120.0,Mexico,Bank Transfer
+1335,2024-02-09,Denise Rivera,P101,Wireless Mouse,Electronics,5,15.99,Canada,Bank Transfer
+1336,2024-03-12,Tiffany Sullivan,P520,Mechanical Keyboard,Electronics,1,75.0,USA,Credit Card
+1337,2024-03-18,Christina Hayes,P205,Notebook,Stationery,2,3.5,Spain,PayPal
+1338,2024-02-26,Gregory Hernandez Jr.,P410,Desk Lamp,Furniture,8,25.0,Chile,Credit Card
+1339,2024-06-08,Lisa Valdez,P205,Notebook,Stationery,6,3.5,Mexico,Bank Transfer
+1340,2024-04-19,Caroline Barrett,P520,Mechanical Keyboard,Electronics,4,75.0,Colombia,Credit Card
+1341,2024-04-22,Kimberly Duncan,P310,Office Chair,Furniture,7,120.0,Argentina,PayPal
+1342,2024-06-02,Douglas Davis,P205,Notebook,Stationery,8,3.5,Mexico,Bank Transfer
+1343,2024-02-02,Stephen Russell,P310,Office Chair,Furniture,1,120.0,Argentina,PayPal
+1344,2024-03-05,Victoria Owen,P205,Notebook,Stationery,1,3.5,Chile,Credit Card
+1345,2024-06-09,Stephanie Bailey,P310,Office Chair,Furniture,6,120.0,Argentina,Credit Card
+1346,2024-01-29,Angela Bennett,P101,Wireless Mouse,Electronics,5,15.99,Colombia,PayPal
+1347,2024-03-14,Elizabeth Walker,P101,Wireless Mouse,Electronics,5,15.99,Mexico,PayPal
+1348,2024-02-22,Meagan Hatfield,P520,Mechanical Keyboard,Electronics,2,75.0,USA,Credit Card
+1349,2024-06-27,Jessica Haney,P205,Notebook,Stationery,3,3.5,Colombia,Credit Card
+1350,2024-06-07,Paula Vargas,P410,Desk Lamp,Furniture,6,25.0,Chile,Bank Transfer
+1351,2024-01-18,Rebecca Kirby,P520,Mechanical Keyboard,Electronics,5,75.0,Canada,Bank Transfer
+1352,2024-03-25,Kevin Hays,P310,Office Chair,Furniture,3,120.0,Chile,Bank Transfer
+1353,2024-03-30,Christina Stein,P410,Desk Lamp,Furniture,8,25.0,Chile,PayPal
+1354,2024-01-11,Christopher Allen,P205,Notebook,Stationery,2,3.5,Canada,Credit Card
+1355,2024-04-18,Theresa Morgan,P630,Monitor 24inch,Electronics,2,180.0,USA,Credit Card
+1356,2024-04-10,Teresa Peck,P310,Office Chair,Furniture,7,120.0,Colombia,Bank Transfer
+1357,2024-02-26,Kathleen Ruiz,P205,Notebook,Stationery,1,3.5,Argentina,Credit Card
+1358,2024-06-21,David Taylor,P101,Wireless Mouse,Electronics,5,15.99,Germany,Bank Transfer
+1359,2024-01-05,Gary Woods,P310,Office Chair,Furniture,6,120.0,Colombia,Credit Card
+1360,2024-01-15,Heather Watkins,P101,Wireless Mouse,Electronics,7,15.99,Canada,PayPal
+1361,2024-02-20,Tina Robertson,P630,Monitor 24inch,Electronics,3,180.0,Mexico,Credit Card
+1362,2024-01-24,Jonathan Long,P310,Office Chair,Furniture,2,120.0,Chile,Credit Card
+1363,2024-04-28,Christopher Rose,P310,Office Chair,Furniture,1,120.0,Mexico,Bank Transfer
+1364,2024-05-03,Amy Gonzales,P410,Desk Lamp,Furniture,1,25.0,Canada,PayPal
+1365,2024-05-15,Lindsey Frederick,P410,Desk Lamp,Furniture,5,25.0,Spain,Bank Transfer
+1366,2024-04-20,Lynn Blake,P520,Mechanical Keyboard,Electronics,7,75.0,Chile,Bank Transfer
+1367,2024-06-13,Amanda Lewis,P630,Monitor 24inch,Electronics,2,180.0,Colombia,Bank Transfer
+1368,2024-04-09,Andre Wilson,P630,Monitor 24inch,Electronics,2,180.0,USA,Bank Transfer
+1369,2024-06-09,Megan Charles,P101,Wireless Mouse,Electronics,6,15.99,Germany,Bank Transfer
+1370,2024-03-20,Marilyn Palmer,P410,Desk Lamp,Furniture,8,25.0,Spain,PayPal
+1371,2024-03-29,Joseph Salinas,P410,Desk Lamp,Furniture,7,25.0,USA,Credit Card
+1372,2024-02-10,Bradley Faulkner,P410,Desk Lamp,Furniture,3,25.0,Spain,Bank Transfer
+1373,2024-02-12,Megan Gross,P630,Monitor 24inch,Electronics,3,180.0,Canada,PayPal
+1374,2024-02-06,Amanda Estrada,P310,Office Chair,Furniture,2,120.0,Mexico,Bank Transfer
+1375,2024-04-29,Patrick Mason,P410,Desk Lamp,Furniture,2,25.0,Argentina,Credit Card
+1376,2024-03-25,Brett Miller,P205,Notebook,Stationery,8,3.5,Germany,Bank Transfer
+1377,2024-01-28,Eddie Walker,P630,Monitor 24inch,Electronics,8,180.0,USA,Credit Card
+1378,2024-01-30,Nicole Elliott,P630,Monitor 24inch,Electronics,1,180.0,Chile,Bank Transfer
+1379,2024-01-02,Tim Johnston,P310,Office Chair,Furniture,2,120.0,Colombia,Credit Card
+1380,2024-02-20,Amanda Mckee,P101,Wireless Mouse,Electronics,8,15.99,Canada,Credit Card
+1381,2024-01-12,Paige Moran,P520,Mechanical Keyboard,Electronics,2,75.0,Chile,PayPal
+1382,2024-04-24,Daniel Ramos,P630,Monitor 24inch,Electronics,3,180.0,Canada,Bank Transfer
+1383,2024-01-23,Edward Richmond,P630,Monitor 24inch,Electronics,7,180.0,Argentina,PayPal
+1384,2024-02-02,Jason Taylor,P205,Notebook,Stationery,7,3.5,Chile,Credit Card
+1385,2024-03-15,Cassie Carr,P410,Desk Lamp,Furniture,4,25.0,Mexico,Credit Card
+1386,2024-03-07,Kristen Hernandez,P410,Desk Lamp,Furniture,3,25.0,Germany,PayPal
+1387,2024-06-17,Bobby Herrera,P101,Wireless Mouse,Electronics,6,15.99,Argentina,Bank Transfer
+1388,2024-02-26,Jonathon Nguyen,P310,Office Chair,Furniture,3,120.0,Colombia,Bank Transfer
+1389,2024-05-10,Jose Santos,P410,Desk Lamp,Furniture,2,25.0,USA,PayPal
+1390,2024-04-11,Bryan Gonzalez,P630,Monitor 24inch,Electronics,6,180.0,Germany,Credit Card
+1391,2024-02-22,Kevin Frederick,P310,Office Chair,Furniture,3,120.0,Canada,PayPal
+1392,2024-05-20,John Donaldson,P101,Wireless Mouse,Electronics,8,15.99,Mexico,Credit Card
+1393,2024-04-05,Colin Rose,P310,Office Chair,Furniture,8,120.0,Mexico,Bank Transfer
+1394,2024-06-28,John Bishop,P630,Monitor 24inch,Electronics,8,180.0,Canada,Credit Card
+1395,2024-02-22,Stacy Farmer,P101,Wireless Mouse,Electronics,1,15.99,Spain,PayPal
+1396,2024-04-29,Sharon Allen,P630,Monitor 24inch,Electronics,1,180.0,Spain,Bank Transfer
+1397,2024-04-20,Terry Vega,P101,Wireless Mouse,Electronics,5,15.99,Chile,Credit Card
+1398,2024-03-01,Juan Reyes,P630,Monitor 24inch,Electronics,5,180.0,Spain,Bank Transfer
+1399,2024-01-08,Amber White,P310,Office Chair,Furniture,1,120.0,USA,Bank Transfer
+1400,2024-06-15,Eric Macias,P205,Notebook,Stationery,5,3.5,Mexico,Bank Transfer
+1401,2024-01-22,Crystal Brown,P410,Desk Lamp,Furniture,5,25.0,Spain,Bank Transfer
+1402,2024-05-03,Alfred Johnson,P520,Mechanical Keyboard,Electronics,5,75.0,Colombia,Bank Transfer
+1403,2024-02-02,Kathryn Webb,P630,Monitor 24inch,Electronics,5,180.0,Chile,Credit Card
+1404,2024-03-27,Wendy Anderson MD,P630,Monitor 24inch,Electronics,1,180.0,USA,Bank Transfer
+1405,2024-04-28,Stephen Burns,P101,Wireless Mouse,Electronics,1,15.99,USA,Bank Transfer
+1406,2024-04-09,Amber Lopez,P520,Mechanical Keyboard,Electronics,4,75.0,Spain,Credit Card
+1407,2024-02-18,Kent Romero,P205,Notebook,Stationery,7,3.5,Colombia,Bank Transfer
+1408,2024-03-29,Cassandra Rodgers,P630,Monitor 24inch,Electronics,5,180.0,Colombia,Credit Card
+1409,2024-03-05,Donna Cox,P410,Desk Lamp,Furniture,7,25.0,Canada,PayPal
+1410,2024-06-23,Jessica Watson,P630,Monitor 24inch,Electronics,2,180.0,Germany,Credit Card
+1411,2024-03-01,Rachel Alvarez,P410,Desk Lamp,Furniture,6,25.0,Chile,Credit Card
+1412,2024-04-27,Travis Galloway,P101,Wireless Mouse,Electronics,6,15.99,Argentina,PayPal
+1413,2024-02-09,Carl Gibbs,P101,Wireless Mouse,Electronics,7,15.99,Chile,Credit Card
+1414,2024-06-17,Kim Johnson,P520,Mechanical Keyboard,Electronics,2,75.0,Spain,Bank Transfer
+1415,2024-06-21,Michelle Yu,P410,Desk Lamp,Furniture,7,25.0,Argentina,Credit Card
+1416,2024-06-16,Julie Phillips,P310,Office Chair,Furniture,1,120.0,USA,PayPal
+1417,2024-03-30,Melissa Jackson,P410,Desk Lamp,Furniture,3,25.0,Germany,Credit Card
+1418,2024-03-17,Peggy Holloway,P410,Desk Lamp,Furniture,1,25.0,Argentina,Credit Card
+1419,2024-03-26,Eric Evans,P205,Notebook,Stationery,8,3.5,USA,Credit Card
+1420,2024-04-04,Mrs. Stacey Bennett,P101,Wireless Mouse,Electronics,8,15.99,Chile,Bank Transfer
+1421,2024-03-08,Charlene Orozco,P101,Wireless Mouse,Electronics,8,15.99,Mexico,PayPal
+1422,2024-05-11,Brenda Owens,P630,Monitor 24inch,Electronics,2,180.0,Colombia,Credit Card
+1423,2024-06-02,Dawn Orr,P205,Notebook,Stationery,1,3.5,Colombia,Credit Card
+1424,2024-06-27,Stephanie Hunt,P520,Mechanical Keyboard,Electronics,2,75.0,Mexico,Credit Card
+1425,2024-03-22,Shannon Stanley,P410,Desk Lamp,Furniture,8,25.0,Canada,Credit Card
+1426,2024-01-03,Stephanie Navarro,P410,Desk Lamp,Furniture,5,25.0,Argentina,PayPal
+1427,2024-06-13,Ashley Ramirez,P310,Office Chair,Furniture,7,120.0,Germany,Bank Transfer
+1428,2024-03-23,Anthony Wiley DVM,P410,Desk Lamp,Furniture,1,25.0,Colombia,Credit Card
+1429,2024-05-09,Danielle Rios,P101,Wireless Mouse,Electronics,6,15.99,Mexico,Credit Card
+1430,2024-04-15,Dennis Olson,P630,Monitor 24inch,Electronics,1,180.0,Spain,Bank Transfer
+1431,2024-05-10,Randy Collins,P310,Office Chair,Furniture,3,120.0,Argentina,Bank Transfer
+1432,2024-06-23,Chelsea Pitts,P630,Monitor 24inch,Electronics,7,180.0,Colombia,Credit Card
+1433,2024-04-12,Richard Graves,P520,Mechanical Keyboard,Electronics,3,75.0,Chile,Credit Card
+1434,2024-04-24,Joel Crawford,P310,Office Chair,Furniture,6,120.0,Spain,Bank Transfer
+1435,2024-01-01,Kimberly Bailey,P630,Monitor 24inch,Electronics,4,180.0,Mexico,Bank Transfer
+1436,2024-06-14,Brittany Miller,P520,Mechanical Keyboard,Electronics,2,75.0,Germany,PayPal
+1437,2024-05-02,John Miller,P520,Mechanical Keyboard,Electronics,7,75.0,Canada,Bank Transfer
+1438,2024-06-12,Mackenzie Chase,P205,Notebook,Stationery,7,3.5,Chile,Bank Transfer
+1439,2024-01-11,Rebecca Anderson,P101,Wireless Mouse,Electronics,4,15.99,USA,Credit Card
+1440,2024-04-16,Ryan Carson,P520,Mechanical Keyboard,Electronics,3,75.0,Germany,Bank Transfer
+1441,2024-03-18,Gregory Massey,P101,Wireless Mouse,Electronics,8,15.99,Spain,Credit Card
+1442,2024-04-17,Cameron Sanders,P410,Desk Lamp,Furniture,8,25.0,Spain,Credit Card
+1443,2024-05-14,Oscar Ellis,P410,Desk Lamp,Furniture,5,25.0,Spain,Credit Card
+1444,2024-01-13,Daniel Vasquez,P205,Notebook,Stationery,6,3.5,Spain,Credit Card
+1445,2024-03-30,Christopher Wilson,P410,Desk Lamp,Furniture,6,25.0,Argentina,Credit Card
+1446,2024-05-11,Lindsey Whitehead,P205,Notebook,Stationery,1,3.5,Argentina,Bank Transfer
+1447,2024-03-14,Dr. Tracy Garza,P101,Wireless Mouse,Electronics,3,15.99,Mexico,Bank Transfer
+1448,2024-06-05,Kurt Hall,P520,Mechanical Keyboard,Electronics,4,75.0,Spain,Credit Card
+1449,2024-02-05,Danny Smith,P310,Office Chair,Furniture,2,120.0,Colombia,PayPal
+1450,2024-03-08,Matthew Grimes,P630,Monitor 24inch,Electronics,1,180.0,USA,PayPal
+1451,2024-04-22,James Holland,P205,Notebook,Stationery,1,3.5,USA,PayPal
+1452,2024-01-04,Angel Bell,P520,Mechanical Keyboard,Electronics,6,75.0,Argentina,Credit Card
+1453,2024-05-28,Joe Wagner,P205,Notebook,Stationery,1,3.5,USA,Credit Card
+1454,2024-01-20,Elijah Moore,P520,Mechanical Keyboard,Electronics,8,75.0,Spain,PayPal
+1455,2024-06-14,Julie Morris,P520,Mechanical Keyboard,Electronics,5,75.0,Germany,Credit Card
+1456,2024-03-01,Angie Johnson,P205,Notebook,Stationery,3,3.5,Mexico,Credit Card
+1457,2024-05-29,Lindsey Harris,P310,Office Chair,Furniture,2,120.0,USA,PayPal
+1458,2024-03-23,Linda Miller,P520,Mechanical Keyboard,Electronics,2,75.0,Chile,Credit Card
+1459,2024-03-16,Allison Howard,P630,Monitor 24inch,Electronics,1,180.0,Spain,PayPal
+1460,2024-01-02,Alyssa Watts,P101,Wireless Mouse,Electronics,6,15.99,Chile,Bank Transfer
+1461,2024-06-11,Dawn Bradley,P410,Desk Lamp,Furniture,2,25.0,USA,Bank Transfer
+1462,2024-02-18,Jared Jones,P630,Monitor 24inch,Electronics,6,180.0,Argentina,Bank Transfer
+1463,2024-06-19,Christopher Frost,P310,Office Chair,Furniture,3,120.0,Chile,PayPal
+1464,2024-06-05,Christopher Kim,P410,Desk Lamp,Furniture,5,25.0,Spain,Credit Card
+1465,2024-01-11,Jordan Maldonado,P310,Office Chair,Furniture,7,120.0,Colombia,Bank Transfer
+1466,2024-02-11,Stefanie Graves,P520,Mechanical Keyboard,Electronics,7,75.0,USA,PayPal
+1467,2024-05-14,Jason Smith,P205,Notebook,Stationery,8,3.5,USA,Credit Card
+1468,2024-03-31,Antonio Harper,P101,Wireless Mouse,Electronics,2,15.99,Germany,Bank Transfer
+1469,2024-03-04,Robert Allen,P630,Monitor 24inch,Electronics,1,180.0,Canada,Bank Transfer
+1470,2024-03-03,Jimmy Francis,P310,Office Chair,Furniture,6,120.0,Canada,Credit Card
+1471,2024-02-04,Jerry Stevenson,P630,Monitor 24inch,Electronics,1,180.0,Canada,Bank Transfer
+1472,2024-02-07,Christine Ortiz,P205,Notebook,Stationery,8,3.5,Germany,PayPal
+1473,2024-05-20,Monica Ruiz,P410,Desk Lamp,Furniture,6,25.0,Canada,Bank Transfer
+1474,2024-04-25,Kimberly Coleman,P630,Monitor 24inch,Electronics,5,180.0,Spain,Bank Transfer
+1475,2024-02-13,Katie Marsh,P310,Office Chair,Furniture,1,120.0,Mexico,Bank Transfer
+1476,2024-02-07,Katie Villegas,P310,Office Chair,Furniture,5,120.0,Canada,PayPal
+1477,2024-03-22,Jacob Herring,P205,Notebook,Stationery,8,3.5,Colombia,Bank Transfer
+1478,2024-05-20,Preston Butler,P630,Monitor 24inch,Electronics,1,180.0,Canada,Bank Transfer
+1479,2024-01-07,Tracey Campbell,P520,Mechanical Keyboard,Electronics,8,75.0,Chile,Bank Transfer
+1480,2024-01-13,Ann Moon,P520,Mechanical Keyboard,Electronics,7,75.0,Colombia,Bank Transfer
+1481,2024-01-19,Lisa Fox,P101,Wireless Mouse,Electronics,6,15.99,Colombia,Bank Transfer
+1482,2024-03-12,Jonathan Morse,P310,Office Chair,Furniture,3,120.0,Colombia,Bank Transfer
+1483,2024-02-03,Troy Serrano,P410,Desk Lamp,Furniture,8,25.0,Mexico,Bank Transfer
+1484,2024-02-25,Jessica Green,P205,Notebook,Stationery,5,3.5,USA,Credit Card
+1485,2024-06-18,Brittney Vargas,P630,Monitor 24inch,Electronics,6,180.0,Argentina,Bank Transfer
+1486,2024-05-11,Jermaine Brooks,P520,Mechanical Keyboard,Electronics,3,75.0,Mexico,PayPal
+1487,2024-01-20,Wendy Mills,P630,Monitor 24inch,Electronics,7,180.0,Germany,Credit Card
+1488,2024-01-15,Steven Chandler,P205,Notebook,Stationery,2,3.5,Germany,PayPal
+1489,2024-01-20,Kelsey Davis,P630,Monitor 24inch,Electronics,8,180.0,USA,Bank Transfer
+1490,2024-06-11,Eric Pratt,P101,Wireless Mouse,Electronics,7,15.99,Argentina,PayPal
+1491,2024-04-04,Mary Hernandez,P101,Wireless Mouse,Electronics,6,15.99,Colombia,Bank Transfer
+1492,2024-06-26,Keith Rosario,P101,Wireless Mouse,Electronics,2,15.99,USA,Bank Transfer
+1493,2024-03-17,Susan Morgan,P310,Office Chair,Furniture,2,120.0,Chile,PayPal
+1494,2024-04-01,Evelyn Ford,P310,Office Chair,Furniture,7,120.0,Argentina,PayPal
+1495,2024-02-04,Donna Green,P310,Office Chair,Furniture,4,120.0,USA,Bank Transfer
+1496,2024-05-16,Alexander Heath,P630,Monitor 24inch,Electronics,1,180.0,Mexico,Bank Transfer
+1497,2024-03-06,Joseph Christian,P310,Office Chair,Furniture,7,120.0,USA,PayPal
+1498,2024-06-15,Elizabeth Allison,P410,Desk Lamp,Furniture,3,25.0,Argentina,Bank Transfer
+1499,2024-02-18,Tiffany Walker,P101,Wireless Mouse,Electronics,1,15.99,Argentina,PayPal
+1500,2024-04-15,Kelsey Gibson,P205,Notebook,Stationery,6,3.5,Mexico,PayPal
+1501,2024-04-11,Rebecca Adams,P410,Desk Lamp,Furniture,2,25.0,Colombia,Bank Transfer
+1502,2024-03-26,Dr. Julie Thompson DDS,P310,Office Chair,Furniture,5,120.0,USA,Credit Card
+1503,2024-01-05,Bobby Cortez,P310,Office Chair,Furniture,7,120.0,Colombia,Credit Card
+1504,2024-06-18,Katherine Reyes,P205,Notebook,Stationery,7,3.5,Spain,PayPal
+1505,2024-04-16,Kyle Wright PhD,P630,Monitor 24inch,Electronics,3,180.0,Canada,Bank Transfer
+1506,2024-02-22,Jimmy Jones,P205,Notebook,Stationery,2,3.5,Argentina,PayPal
+1507,2024-02-25,Kristin James,P630,Monitor 24inch,Electronics,6,180.0,Chile,PayPal
+1508,2024-06-04,Jodi Jacobs,P630,Monitor 24inch,Electronics,2,180.0,Germany,Bank Transfer
+1509,2024-06-05,Brett Rowe,P101,Wireless Mouse,Electronics,8,15.99,Colombia,Bank Transfer
+1510,2024-02-17,Robert Williams PhD,P410,Desk Lamp,Furniture,5,25.0,USA,PayPal
+1511,2024-05-19,Mark Gilbert,P310,Office Chair,Furniture,7,120.0,Mexico,PayPal
+1512,2024-06-25,Benjamin Perkins,P101,Wireless Mouse,Electronics,6,15.99,Chile,PayPal
+1513,2024-01-29,Laura Wade,P520,Mechanical Keyboard,Electronics,5,75.0,Spain,PayPal
+1514,2024-01-07,Michael Wong,P310,Office Chair,Furniture,3,120.0,Chile,PayPal
+1515,2024-05-31,Michael Garner,P630,Monitor 24inch,Electronics,8,180.0,Spain,PayPal
+1516,2024-01-26,Christopher Smith,P630,Monitor 24inch,Electronics,7,180.0,Canada,PayPal
+1517,2024-02-06,Shawn Guzman MD,P310,Office Chair,Furniture,3,120.0,Argentina,PayPal
+1518,2024-02-10,Holly Hutchinson,P520,Mechanical Keyboard,Electronics,2,75.0,Colombia,Credit Card
+1519,2024-03-10,Ryan Ross,P310,Office Chair,Furniture,2,120.0,Colombia,PayPal
+1520,2024-03-29,Bianca Simon,P630,Monitor 24inch,Electronics,4,180.0,Germany,PayPal
+1521,2024-06-19,Daniel Bautista,P520,Mechanical Keyboard,Electronics,1,75.0,Mexico,Bank Transfer
+1522,2024-05-27,Alec Rogers,P630,Monitor 24inch,Electronics,1,180.0,Mexico,Bank Transfer
+1523,2024-05-07,Malik Lee,P520,Mechanical Keyboard,Electronics,7,75.0,Mexico,Bank Transfer
+1524,2024-04-21,Veronica Johnson,P101,Wireless Mouse,Electronics,6,15.99,Colombia,Bank Transfer
+1525,2024-06-11,Mr. John Johnson,P101,Wireless Mouse,Electronics,7,15.99,Colombia,PayPal
+1526,2024-03-24,Paul Williams,P410,Desk Lamp,Furniture,3,25.0,Spain,PayPal
+1527,2024-06-03,Susan Ward,P630,Monitor 24inch,Electronics,3,180.0,USA,Credit Card
+1528,2024-04-12,Michael Thomas,P101,Wireless Mouse,Electronics,1,15.99,Chile,Bank Transfer
+1529,2024-06-18,Christian Brown,P310,Office Chair,Furniture,3,120.0,Chile,Credit Card
+1530,2024-06-22,Yesenia Patterson,P410,Desk Lamp,Furniture,4,25.0,Chile,Credit Card
+1531,2024-01-03,Darrell Glass,P310,Office Chair,Furniture,2,120.0,Mexico,PayPal
+1532,2024-04-04,Tiffany Gonzalez,P630,Monitor 24inch,Electronics,4,180.0,Germany,Credit Card
+1533,2024-02-09,Kelly Hamilton,P520,Mechanical Keyboard,Electronics,5,75.0,Germany,PayPal
+1534,2024-02-25,Michael Johnson,P410,Desk Lamp,Furniture,8,25.0,Germany,PayPal
+1535,2024-04-06,Danny Wolf,P520,Mechanical Keyboard,Electronics,6,75.0,Colombia,Credit Card
+1536,2024-05-14,Pamela Francis,P205,Notebook,Stationery,1,3.5,Colombia,Credit Card
+1537,2024-06-02,Jennifer King,P410,Desk Lamp,Furniture,2,25.0,USA,Credit Card
+1538,2024-01-03,Melanie Martin,P101,Wireless Mouse,Electronics,4,15.99,Chile,PayPal
+1539,2024-04-01,Jennifer Velazquez,P630,Monitor 24inch,Electronics,3,180.0,Mexico,PayPal
+1540,2024-03-09,Jennifer Bryant,P205,Notebook,Stationery,2,3.5,Mexico,Bank Transfer
+1541,2024-05-09,Troy Baker,P310,Office Chair,Furniture,5,120.0,Mexico,Bank Transfer
+1542,2024-03-11,Dennis Green,P310,Office Chair,Furniture,4,120.0,USA,Credit Card
+1543,2024-05-30,Katelyn Davenport,P310,Office Chair,Furniture,1,120.0,Germany,PayPal
+1544,2024-02-29,Teresa Martinez,P101,Wireless Mouse,Electronics,7,15.99,Germany,Credit Card
+1545,2024-01-16,Sarah Henderson,P310,Office Chair,Furniture,2,120.0,Colombia,PayPal
+1546,2024-06-12,Michele Romero,P101,Wireless Mouse,Electronics,8,15.99,Mexico,Credit Card
+1547,2024-01-30,Robert Floyd,P630,Monitor 24inch,Electronics,4,180.0,Canada,Credit Card
+1548,2024-06-15,Gina Greene,P410,Desk Lamp,Furniture,1,25.0,Canada,Bank Transfer
+1549,2024-06-12,Emily Young,P410,Desk Lamp,Furniture,8,25.0,Chile,PayPal
+1550,2024-04-28,Jeffery Williams,P205,Notebook,Stationery,5,3.5,Argentina,Credit Card
+1551,2024-03-17,Jeremy Sanders,P520,Mechanical Keyboard,Electronics,7,75.0,Chile,Bank Transfer
+1552,2024-03-11,Marcus Mcbride,P630,Monitor 24inch,Electronics,1,180.0,Germany,Bank Transfer
+1553,2024-02-20,Cassie Baker,P520,Mechanical Keyboard,Electronics,7,75.0,Chile,Bank Transfer
+1554,2024-04-08,Jeffrey Knight,P410,Desk Lamp,Furniture,2,25.0,Argentina,Bank Transfer
+1555,2024-01-03,Marcia Smith,P410,Desk Lamp,Furniture,2,25.0,Mexico,Credit Card
+1556,2024-01-15,Grant Guerrero,P520,Mechanical Keyboard,Electronics,7,75.0,Canada,Bank Transfer
+1557,2024-03-08,Samantha Bell,P410,Desk Lamp,Furniture,1,25.0,Spain,Bank Transfer
+1558,2024-03-02,Jacob Bowers,P205,Notebook,Stationery,5,3.5,Mexico,Credit Card
+1559,2024-01-21,Kevin Hanson,P520,Mechanical Keyboard,Electronics,4,75.0,Chile,Credit Card
+1560,2024-03-14,Karen Graham,P410,Desk Lamp,Furniture,6,25.0,USA,Bank Transfer
+1561,2024-05-04,Edward Dixon,P410,Desk Lamp,Furniture,3,25.0,Canada,Bank Transfer
+1562,2024-04-27,Marc Ruiz,P630,Monitor 24inch,Electronics,3,180.0,Argentina,Credit Card
+1563,2024-05-09,Shane Anderson,P310,Office Chair,Furniture,3,120.0,USA,PayPal
+1564,2024-05-05,Cheryl Hoover,P520,Mechanical Keyboard,Electronics,3,75.0,Mexico,PayPal
+1565,2024-01-26,Lisa Newman,P205,Notebook,Stationery,3,3.5,Colombia,Bank Transfer
+1566,2024-06-22,Maria Phillips,P520,Mechanical Keyboard,Electronics,8,75.0,Germany,Bank Transfer
+1567,2024-01-26,Jason Holmes,P630,Monitor 24inch,Electronics,1,180.0,Colombia,Credit Card
+1568,2024-04-24,Kathryn Stewart,P630,Monitor 24inch,Electronics,6,180.0,Chile,Bank Transfer
+1569,2024-05-05,Carolyn Underwood,P410,Desk Lamp,Furniture,3,25.0,Canada,Credit Card
+1570,2024-06-19,Holly Long,P410,Desk Lamp,Furniture,6,25.0,Argentina,Credit Card
+1571,2024-02-23,Jesus Chandler,P520,Mechanical Keyboard,Electronics,7,75.0,USA,PayPal
+1572,2024-02-21,Joshua Key,P520,Mechanical Keyboard,Electronics,4,75.0,Canada,PayPal
+1573,2024-02-27,Jonathan Johnson,P101,Wireless Mouse,Electronics,5,15.99,Canada,Bank Transfer
+1574,2024-06-19,Ian Shaffer,P101,Wireless Mouse,Electronics,6,15.99,Colombia,PayPal
+1575,2024-05-31,Kayla Rogers,P101,Wireless Mouse,Electronics,8,15.99,USA,PayPal
+1576,2024-01-11,Gina Thomas,P410,Desk Lamp,Furniture,8,25.0,Chile,PayPal
+1577,2024-03-24,Denise Mccarthy,P310,Office Chair,Furniture,3,120.0,Germany,PayPal
+1578,2024-06-08,Thomas Lee,P101,Wireless Mouse,Electronics,1,15.99,Canada,PayPal
+1579,2024-01-28,Shelly Ward,P630,Monitor 24inch,Electronics,1,180.0,USA,Credit Card
+1580,2024-05-20,Alexander Nicholson,P310,Office Chair,Furniture,1,120.0,Chile,Bank Transfer
+1581,2024-05-04,Alan Beck,P310,Office Chair,Furniture,8,120.0,USA,Credit Card
+1582,2024-04-20,Theresa Beard,P630,Monitor 24inch,Electronics,1,180.0,Mexico,Bank Transfer
+1583,2024-01-08,David Payne,P310,Office Chair,Furniture,1,120.0,Chile,PayPal
+1584,2024-03-03,Cheryl Arnold,P520,Mechanical Keyboard,Electronics,8,75.0,Colombia,Credit Card
+1585,2024-03-08,Chelsey Miller,P410,Desk Lamp,Furniture,3,25.0,Germany,Bank Transfer
+1586,2024-02-10,April Carney,P410,Desk Lamp,Furniture,5,25.0,Spain,Credit Card
+1587,2024-06-23,Victoria Kline,P410,Desk Lamp,Furniture,1,25.0,Colombia,PayPal
+1588,2024-02-23,Sharon Shepard,P520,Mechanical Keyboard,Electronics,1,75.0,Mexico,Bank Transfer
+1589,2024-02-12,Megan Hamilton,P630,Monitor 24inch,Electronics,3,180.0,Mexico,Bank Transfer
+1590,2024-03-29,Ashley Davis,P310,Office Chair,Furniture,3,120.0,Chile,Bank Transfer
+1591,2024-02-28,Lacey Campbell,P205,Notebook,Stationery,3,3.5,Spain,Bank Transfer
+1592,2024-03-31,David Glover,P520,Mechanical Keyboard,Electronics,3,75.0,Colombia,Bank Transfer
+1593,2024-05-13,Logan Nelson,P101,Wireless Mouse,Electronics,4,15.99,Spain,Credit Card
+1594,2024-01-02,Christina Perry,P205,Notebook,Stationery,6,3.5,USA,Bank Transfer
+1595,2024-01-08,Kristen Deleon,P630,Monitor 24inch,Electronics,4,180.0,Chile,PayPal
+1596,2024-02-01,Timothy Owens,P310,Office Chair,Furniture,2,120.0,Germany,Credit Card
+1597,2024-01-01,Christian West,P520,Mechanical Keyboard,Electronics,3,75.0,Colombia,Bank Transfer
+1598,2024-02-02,Kevin Gutierrez,P310,Office Chair,Furniture,2,120.0,USA,Credit Card
+1599,2024-05-27,Sarah Walters,P520,Mechanical Keyboard,Electronics,2,75.0,USA,Bank Transfer
+1600,2024-04-19,Mr. Paul Johnson,P310,Office Chair,Furniture,2,120.0,Chile,Bank Transfer
+1601,2024-06-13,Joshua Rodriguez,P630,Monitor 24inch,Electronics,3,180.0,Chile,Bank Transfer
+1602,2024-01-12,Ruth Johns,P630,Monitor 24inch,Electronics,8,180.0,Mexico,PayPal
+1603,2024-03-04,Anthony Dunn,P310,Office Chair,Furniture,2,120.0,Argentina,Credit Card
+1604,2024-06-27,Anthony Green,P410,Desk Lamp,Furniture,2,25.0,Argentina,Bank Transfer
+1605,2024-05-07,Kellie Guzman,P205,Notebook,Stationery,4,3.5,Colombia,Credit Card
+1606,2024-05-29,Luis George,P310,Office Chair,Furniture,8,120.0,USA,PayPal
+1607,2024-06-05,Kyle Keller,P520,Mechanical Keyboard,Electronics,4,75.0,Colombia,Bank Transfer
+1608,2024-01-13,Dr. Robert Schroeder MD,P410,Desk Lamp,Furniture,4,25.0,Colombia,Bank Transfer
+1609,2024-04-02,Sara Daniels,P410,Desk Lamp,Furniture,5,25.0,Germany,Bank Transfer
+1610,2024-02-06,Michelle Ford,P520,Mechanical Keyboard,Electronics,7,75.0,Mexico,Bank Transfer
+1611,2024-04-24,Heather Kim,P410,Desk Lamp,Furniture,6,25.0,USA,Credit Card
+1612,2024-03-07,Christian Ramsey,P520,Mechanical Keyboard,Electronics,8,75.0,Argentina,PayPal
+1613,2024-05-18,Kyle Leonard,P205,Notebook,Stationery,2,3.5,Argentina,PayPal
+1614,2024-01-30,Dawn Thompson,P205,Notebook,Stationery,6,3.5,Spain,Credit Card
+1615,2024-04-17,Devin Gomez,P101,Wireless Mouse,Electronics,6,15.99,Germany,PayPal
+1616,2024-03-06,Kenneth West,P205,Notebook,Stationery,7,3.5,Mexico,PayPal
+1617,2024-03-22,Kristin Hamilton,P205,Notebook,Stationery,8,3.5,Germany,PayPal
+1618,2024-02-01,David Bennett PhD,P205,Notebook,Stationery,1,3.5,Canada,Credit Card
+1619,2024-01-11,Melissa Campbell,P310,Office Chair,Furniture,5,120.0,Mexico,Bank Transfer
+1620,2024-02-27,John Smith,P630,Monitor 24inch,Electronics,8,180.0,Canada,PayPal
+1621,2024-05-21,Michael Gonzalez,P310,Office Chair,Furniture,6,120.0,Mexico,PayPal
+1622,2024-03-09,Jonathan Reed,P205,Notebook,Stationery,8,3.5,Chile,Credit Card
+1623,2024-06-10,Diane Nguyen,P205,Notebook,Stationery,5,3.5,Mexico,Credit Card
+1624,2024-05-01,Alicia Smith,P410,Desk Lamp,Furniture,5,25.0,Mexico,Credit Card
+1625,2024-05-20,Justin Mccarthy,P410,Desk Lamp,Furniture,1,25.0,Chile,Credit Card
+1626,2024-01-06,Daisy Garza,P410,Desk Lamp,Furniture,8,25.0,Canada,Credit Card
+1627,2024-02-05,Eric Becker,P101,Wireless Mouse,Electronics,8,15.99,Canada,Bank Transfer
+1628,2024-02-14,Michelle Hall,P520,Mechanical Keyboard,Electronics,6,75.0,Canada,Bank Transfer
+1629,2024-04-04,Kristen Perez,P101,Wireless Mouse,Electronics,4,15.99,Spain,PayPal
+1630,2024-06-22,Savannah Ross,P205,Notebook,Stationery,8,3.5,Argentina,Bank Transfer
+1631,2024-06-05,Mrs. Victoria Haney,P410,Desk Lamp,Furniture,6,25.0,Mexico,Bank Transfer
+1632,2024-04-06,Andrew Marshall,P310,Office Chair,Furniture,6,120.0,Colombia,Bank Transfer
+1633,2024-02-03,Jacob Bennett,P410,Desk Lamp,Furniture,1,25.0,Mexico,Bank Transfer
+1634,2024-02-27,Amanda Peterson,P310,Office Chair,Furniture,1,120.0,Chile,Bank Transfer
+1635,2024-01-14,Robin Moreno,P205,Notebook,Stationery,4,3.5,Chile,PayPal
+1636,2024-05-03,Cynthia Ramsey,P410,Desk Lamp,Furniture,2,25.0,USA,PayPal
+1637,2024-04-27,Crystal Smith,P630,Monitor 24inch,Electronics,6,180.0,Germany,Credit Card
+1638,2024-03-16,Amber Gordon,P630,Monitor 24inch,Electronics,3,180.0,Spain,Bank Transfer
+1639,2024-06-03,Michelle Austin,P205,Notebook,Stationery,5,3.5,Mexico,Bank Transfer
+1640,2024-04-25,Lorraine Brown,P410,Desk Lamp,Furniture,7,25.0,Mexico,Bank Transfer
+1641,2024-01-02,John Roberts,P310,Office Chair,Furniture,1,120.0,Chile,PayPal
+1642,2024-02-02,Sara Conway,P310,Office Chair,Furniture,2,120.0,Germany,Bank Transfer
+1643,2024-06-24,Laura Hoffman,P205,Notebook,Stationery,4,3.5,USA,Bank Transfer
+1644,2024-04-29,Phillip Benson,P630,Monitor 24inch,Electronics,4,180.0,Spain,PayPal
+1645,2024-03-03,Joseph Noble,P310,Office Chair,Furniture,4,120.0,USA,Credit Card
+1646,2024-02-02,Lucas Key,P310,Office Chair,Furniture,4,120.0,Chile,Credit Card
+1647,2024-06-03,Mitchell Allen,P410,Desk Lamp,Furniture,8,25.0,USA,Bank Transfer
+1648,2024-02-13,Kimberly Scott,P520,Mechanical Keyboard,Electronics,3,75.0,Canada,Credit Card
+1649,2024-03-11,Matthew Smith,P205,Notebook,Stationery,3,3.5,Spain,Credit Card
+1650,2024-06-12,Christopher Campbell,P410,Desk Lamp,Furniture,4,25.0,Argentina,PayPal
+1651,2024-03-02,Stacy Schneider,P410,Desk Lamp,Furniture,7,25.0,Argentina,Credit Card
+1652,2024-01-31,Kathy Lee,P630,Monitor 24inch,Electronics,4,180.0,Spain,Credit Card
+1653,2024-02-11,Alicia Craig,P205,Notebook,Stationery,4,3.5,Germany,Credit Card
+1654,2024-06-06,Randy Evans III,P101,Wireless Mouse,Electronics,8,15.99,Canada,Bank Transfer
+1655,2024-02-08,Rebecca Alvarez,P520,Mechanical Keyboard,Electronics,1,75.0,USA,PayPal
+1656,2024-01-25,Tracy Roy,P410,Desk Lamp,Furniture,7,25.0,USA,Credit Card
+1657,2024-04-18,Taylor Hill,P630,Monitor 24inch,Electronics,4,180.0,Argentina,Credit Card
+1658,2024-02-12,Billy Watkins,P205,Notebook,Stationery,6,3.5,Spain,Credit Card
+1659,2024-04-11,David Robertson,P410,Desk Lamp,Furniture,7,25.0,Germany,Bank Transfer
+1660,2024-06-05,Gordon Church,P101,Wireless Mouse,Electronics,7,15.99,Germany,Credit Card
+1661,2024-05-19,Kenneth Eaton,P410,Desk Lamp,Furniture,1,25.0,Argentina,PayPal
+1662,2024-04-21,Craig Sullivan,P205,Notebook,Stationery,8,3.5,Canada,PayPal
+1663,2024-06-18,Brett Fischer,P520,Mechanical Keyboard,Electronics,4,75.0,Colombia,Credit Card
+1664,2024-04-06,Melvin York,P101,Wireless Mouse,Electronics,4,15.99,Spain,Credit Card
+1665,2024-04-06,Christina Bradley,P520,Mechanical Keyboard,Electronics,8,75.0,Mexico,Credit Card
+1666,2024-04-19,Melissa Stephenson,P310,Office Chair,Furniture,7,120.0,USA,Credit Card
+1667,2024-01-08,James Gonzalez,P310,Office Chair,Furniture,5,120.0,USA,Credit Card
+1668,2024-05-28,Stephen Middleton,P520,Mechanical Keyboard,Electronics,5,75.0,Argentina,PayPal
+1669,2024-03-04,Julia Freeman,P310,Office Chair,Furniture,8,120.0,Spain,PayPal
+1670,2024-06-01,Angela Salinas,P310,Office Chair,Furniture,4,120.0,Colombia,Bank Transfer
+1671,2024-05-02,Mr. Wesley Perry,P410,Desk Lamp,Furniture,5,25.0,Canada,Bank Transfer
+1672,2024-04-16,Michael Rodriguez,P520,Mechanical Keyboard,Electronics,2,75.0,USA,Bank Transfer
+1673,2024-06-21,Kimberly Zimmerman,P520,Mechanical Keyboard,Electronics,1,75.0,Germany,PayPal
+1674,2024-02-01,Dawn Mcdaniel,P520,Mechanical Keyboard,Electronics,5,75.0,Argentina,PayPal
+1675,2024-06-05,Cameron Turner,P630,Monitor 24inch,Electronics,2,180.0,Mexico,Credit Card
+1676,2024-03-21,Michael Wade,P520,Mechanical Keyboard,Electronics,8,75.0,Argentina,Credit Card
+1677,2024-04-13,Michael Mcintyre,P310,Office Chair,Furniture,6,120.0,Germany,Credit Card
+1678,2024-01-03,Emily Miller,P101,Wireless Mouse,Electronics,4,15.99,Mexico,Credit Card
+1679,2024-04-05,Jessica Johnson,P101,Wireless Mouse,Electronics,5,15.99,Argentina,Credit Card
+1680,2024-05-14,Mark Galvan,P101,Wireless Mouse,Electronics,3,15.99,USA,Bank Transfer
+1681,2024-05-29,Justin Reed,P101,Wireless Mouse,Electronics,2,15.99,Germany,Bank Transfer
+1682,2024-04-04,Eric Church,P520,Mechanical Keyboard,Electronics,8,75.0,Argentina,PayPal
+1683,2024-05-01,Christopher Williamson,P520,Mechanical Keyboard,Electronics,6,75.0,Chile,Bank Transfer
+1684,2024-01-27,Denise Allen,P205,Notebook,Stationery,6,3.5,USA,Bank Transfer
+1685,2024-06-27,Daniel Horton,P101,Wireless Mouse,Electronics,7,15.99,Argentina,Credit Card
+1686,2024-04-10,Elizabeth Nguyen,P520,Mechanical Keyboard,Electronics,7,75.0,USA,Bank Transfer
+1687,2024-04-07,Carol Hall,P410,Desk Lamp,Furniture,6,25.0,USA,Credit Card
+1688,2024-05-04,William Nelson,P520,Mechanical Keyboard,Electronics,7,75.0,Chile,Bank Transfer
+1689,2024-01-28,Natasha Maldonado,P310,Office Chair,Furniture,1,120.0,Canada,Credit Card
+1690,2024-04-13,Wanda Stanley,P520,Mechanical Keyboard,Electronics,2,75.0,Germany,PayPal
+1691,2024-02-19,Tommy Juarez,P520,Mechanical Keyboard,Electronics,7,75.0,USA,Credit Card
+1692,2024-04-24,Tracy Mendoza,P101,Wireless Mouse,Electronics,1,15.99,Chile,PayPal
+1693,2024-05-07,Michael Williams,P520,Mechanical Keyboard,Electronics,8,75.0,Chile,Credit Card
+1694,2024-01-01,Courtney Garcia,P310,Office Chair,Furniture,8,120.0,Canada,Credit Card
+1695,2024-02-05,William Gillespie,P205,Notebook,Stationery,4,3.5,Chile,Credit Card
+1696,2024-02-01,Amber Grimes,P630,Monitor 24inch,Electronics,2,180.0,Argentina,Bank Transfer
+1697,2024-04-06,Robert Hardin,P101,Wireless Mouse,Electronics,7,15.99,Argentina,PayPal
+1698,2024-06-12,Amanda Taylor,P310,Office Chair,Furniture,8,120.0,Spain,Credit Card
+1699,2024-06-21,Jon Willis,P205,Notebook,Stationery,5,3.5,Canada,PayPal
+1700,2024-03-28,Robert Travis,P520,Mechanical Keyboard,Electronics,4,75.0,Germany,PayPal
+1701,2024-02-10,Heather Roberts,P310,Office Chair,Furniture,4,120.0,Spain,PayPal
+1702,2024-02-26,Kristen Lee,P630,Monitor 24inch,Electronics,6,180.0,Germany,Credit Card
+1703,2024-06-15,Allison Acevedo,P205,Notebook,Stationery,7,3.5,Argentina,PayPal
+1704,2024-02-18,Carrie Huynh,P101,Wireless Mouse,Electronics,6,15.99,Canada,Credit Card
+1705,2024-05-30,Joshua Murray,P630,Monitor 24inch,Electronics,7,180.0,Mexico,Bank Transfer
+1706,2024-01-13,Anthony King,P310,Office Chair,Furniture,2,120.0,Argentina,PayPal
+1707,2024-01-29,Paige Garza,P101,Wireless Mouse,Electronics,1,15.99,Mexico,PayPal
+1708,2024-02-13,Sharon Gray,P630,Monitor 24inch,Electronics,8,180.0,USA,PayPal
+1709,2024-01-24,Kristen Schneider,P205,Notebook,Stationery,7,3.5,Spain,PayPal
+1710,2024-05-19,Austin Fox,P205,Notebook,Stationery,2,3.5,USA,Bank Transfer
+1711,2024-05-21,Colleen Whitaker,P410,Desk Lamp,Furniture,6,25.0,Argentina,Bank Transfer
+1712,2024-06-21,Ashley Jones,P520,Mechanical Keyboard,Electronics,8,75.0,Chile,PayPal
+1713,2024-03-14,Darrell Brown,P101,Wireless Mouse,Electronics,2,15.99,USA,Credit Card
+1714,2024-06-11,Tyler Brown,P205,Notebook,Stationery,5,3.5,Mexico,PayPal
+1715,2024-02-22,Emily Carter MD,P101,Wireless Mouse,Electronics,3,15.99,Chile,Credit Card
+1716,2024-06-11,Sharon Brown,P410,Desk Lamp,Furniture,6,25.0,Argentina,PayPal
+1717,2024-02-07,Jason Lyons,P310,Office Chair,Furniture,3,120.0,Colombia,Credit Card
+1718,2024-06-13,Joshua Fleming,P205,Notebook,Stationery,7,3.5,Germany,PayPal
+1719,2024-05-29,David Zavala,P410,Desk Lamp,Furniture,7,25.0,Germany,Credit Card
+1720,2024-02-23,Brian Huff,P630,Monitor 24inch,Electronics,1,180.0,Chile,PayPal
+1721,2024-06-16,Matthew Harper,P310,Office Chair,Furniture,8,120.0,Argentina,PayPal
+1722,2024-06-05,Tammy Thompson,P310,Office Chair,Furniture,2,120.0,Colombia,Bank Transfer
+1723,2024-03-24,Jessica Daniels,P310,Office Chair,Furniture,4,120.0,Mexico,Bank Transfer
+1724,2024-01-24,Joshua Maynard,P205,Notebook,Stationery,3,3.5,Chile,Credit Card
+1725,2024-05-21,Jessica Stephens,P520,Mechanical Keyboard,Electronics,3,75.0,Argentina,Bank Transfer
+1726,2024-06-12,Roberto Meadows,P310,Office Chair,Furniture,6,120.0,Mexico,PayPal
+1727,2024-06-12,Sarah Baker,P410,Desk Lamp,Furniture,2,25.0,Argentina,Credit Card
+1728,2024-01-12,Mark Anderson,P410,Desk Lamp,Furniture,5,25.0,Colombia,PayPal
+1729,2024-03-22,Rachel Cooke,P410,Desk Lamp,Furniture,4,25.0,Argentina,Credit Card
+1730,2024-03-19,Raymond Taylor,P520,Mechanical Keyboard,Electronics,4,75.0,Spain,Bank Transfer
+1731,2024-06-29,Stephen Lambert,P310,Office Chair,Furniture,3,120.0,Mexico,PayPal
+1732,2024-03-17,Christopher Edwards,P101,Wireless Mouse,Electronics,3,15.99,Spain,Credit Card
+1733,2024-03-23,Carly Garcia,P101,Wireless Mouse,Electronics,4,15.99,Colombia,PayPal
+1734,2024-01-23,Thomas Martinez,P205,Notebook,Stationery,7,3.5,Mexico,Credit Card
+1735,2024-05-13,Carolyn Garner,P410,Desk Lamp,Furniture,5,25.0,Argentina,PayPal
+1736,2024-03-27,Nicole Pope,P520,Mechanical Keyboard,Electronics,5,75.0,Germany,Bank Transfer
+1737,2024-06-07,Jon Soto,P520,Mechanical Keyboard,Electronics,7,75.0,Mexico,Bank Transfer
+1738,2024-06-22,Emily Brown,P205,Notebook,Stationery,8,3.5,Argentina,Credit Card
+1739,2024-01-30,Michael Cooper,P310,Office Chair,Furniture,5,120.0,Spain,PayPal
+1740,2024-05-22,Cory Martinez,P101,Wireless Mouse,Electronics,8,15.99,Canada,Credit Card
+1741,2024-05-15,John Whitaker,P630,Monitor 24inch,Electronics,6,180.0,Germany,PayPal
+1742,2024-03-19,Bobby Curtis,P101,Wireless Mouse,Electronics,4,15.99,Colombia,Credit Card
+1743,2024-05-11,Emily Wright,P410,Desk Lamp,Furniture,8,25.0,Chile,Bank Transfer
+1744,2024-02-23,Jon Mccoy,P630,Monitor 24inch,Electronics,5,180.0,Argentina,Bank Transfer
+1745,2024-03-28,Theresa Allen,P630,Monitor 24inch,Electronics,7,180.0,Argentina,PayPal
+1746,2024-06-02,Debra Gilbert,P101,Wireless Mouse,Electronics,3,15.99,USA,Bank Transfer
+1747,2024-06-04,Joel Coffey,P310,Office Chair,Furniture,4,120.0,USA,PayPal
+1748,2024-01-18,Amber White,P310,Office Chair,Furniture,6,120.0,Spain,Credit Card
+1749,2024-02-11,Wayne Ross,P630,Monitor 24inch,Electronics,1,180.0,Chile,Credit Card
+1750,2024-05-25,Joel Griffith,P205,Notebook,Stationery,2,3.5,USA,Bank Transfer
+1751,2024-04-12,Michelle Carr,P310,Office Chair,Furniture,8,120.0,Spain,Bank Transfer
+1752,2024-02-13,Jordan Goodwin,P205,Notebook,Stationery,5,3.5,Spain,Credit Card
+1753,2024-06-06,Arthur Oneill,P630,Monitor 24inch,Electronics,5,180.0,Germany,Credit Card
+1754,2024-06-05,Barbara Ramos,P410,Desk Lamp,Furniture,3,25.0,Germany,Bank Transfer
+1755,2024-04-10,Brian Hill,P205,Notebook,Stationery,3,3.5,Chile,Bank Transfer
+1756,2024-05-14,Angela Zuniga,P520,Mechanical Keyboard,Electronics,4,75.0,Colombia,Bank Transfer
+1757,2024-05-20,Kevin Gallegos,P630,Monitor 24inch,Electronics,5,180.0,USA,Credit Card
+1758,2024-05-29,Kimberly Garza,P630,Monitor 24inch,Electronics,8,180.0,Germany,Bank Transfer
+1759,2024-03-21,Joseph Anderson,P520,Mechanical Keyboard,Electronics,4,75.0,Mexico,Credit Card
+1760,2024-05-23,Sean Brown,P205,Notebook,Stationery,6,3.5,USA,PayPal
+1761,2024-05-08,Sandra Fox,P520,Mechanical Keyboard,Electronics,3,75.0,USA,Bank Transfer
+1762,2024-06-11,Jennifer Smith,P205,Notebook,Stationery,5,3.5,Argentina,Bank Transfer
+1763,2024-05-20,Hannah Barr,P630,Monitor 24inch,Electronics,1,180.0,USA,PayPal
+1764,2024-05-12,Jeffrey Taylor,P310,Office Chair,Furniture,4,120.0,Argentina,Credit Card
+1765,2024-06-29,Mary Cameron,P410,Desk Lamp,Furniture,2,25.0,Canada,Bank Transfer
+1766,2024-06-22,Ernest Torres,P205,Notebook,Stationery,5,3.5,Canada,PayPal
+1767,2024-05-13,Brad Ellis,P410,Desk Lamp,Furniture,7,25.0,Spain,PayPal
+1768,2024-04-30,Kyle Fisher,P520,Mechanical Keyboard,Electronics,6,75.0,Germany,Credit Card
+1769,2024-04-13,Peter Thompson,P410,Desk Lamp,Furniture,6,25.0,Germany,PayPal
+1770,2024-03-05,Katherine Walker,P310,Office Chair,Furniture,3,120.0,Canada,Bank Transfer
+1771,2024-02-13,April Blanchard,P101,Wireless Mouse,Electronics,5,15.99,Mexico,Credit Card
+1772,2024-06-05,Aaron Ochoa,P310,Office Chair,Furniture,4,120.0,Colombia,Bank Transfer
+1773,2024-06-22,Elizabeth Dixon,P310,Office Chair,Furniture,4,120.0,Mexico,PayPal
+1774,2024-05-19,Erica Alvarado,P410,Desk Lamp,Furniture,4,25.0,Argentina,Credit Card
+1775,2024-05-12,Richard Adams,P630,Monitor 24inch,Electronics,3,180.0,Spain,Bank Transfer
+1776,2024-03-27,David Cisneros,P310,Office Chair,Furniture,8,120.0,Germany,PayPal
+1777,2024-05-28,Patrick Gregory,P310,Office Chair,Furniture,6,120.0,Chile,Credit Card
+1778,2024-04-23,Grant Kelley,P410,Desk Lamp,Furniture,7,25.0,USA,PayPal
+1779,2024-02-06,Ryan Vargas,P205,Notebook,Stationery,4,3.5,USA,PayPal
+1780,2024-01-27,Robert Parker,P630,Monitor 24inch,Electronics,8,180.0,Colombia,PayPal
+1781,2024-04-28,Sara Rivera,P310,Office Chair,Furniture,8,120.0,Chile,PayPal
+1782,2024-05-31,Logan Love,P520,Mechanical Keyboard,Electronics,8,75.0,Germany,PayPal
+1783,2024-02-03,Allison Middleton,P520,Mechanical Keyboard,Electronics,2,75.0,Argentina,PayPal
+1784,2024-06-06,Brian Hammond,P310,Office Chair,Furniture,1,120.0,Spain,Bank Transfer
+1785,2024-03-04,Sue Leonard,P205,Notebook,Stationery,8,3.5,Chile,PayPal
+1786,2024-05-09,John Martin,P310,Office Chair,Furniture,1,120.0,Germany,Bank Transfer
+1787,2024-03-17,Kristen Brown,P410,Desk Lamp,Furniture,7,25.0,Canada,Bank Transfer
+1788,2024-06-23,April Cummings,P205,Notebook,Stationery,7,3.5,Argentina,Bank Transfer
+1789,2024-05-26,Gregory Lee,P310,Office Chair,Furniture,1,120.0,Canada,Bank Transfer
+1790,2024-02-19,Rachel Fischer DDS,P310,Office Chair,Furniture,7,120.0,USA,PayPal
+1791,2024-03-16,Kristen Sanchez,P630,Monitor 24inch,Electronics,7,180.0,Canada,Bank Transfer
+1792,2024-06-06,Tonya Shannon,P205,Notebook,Stationery,1,3.5,USA,Bank Transfer
+1793,2024-02-22,Jean Phillips,P205,Notebook,Stationery,7,3.5,Germany,Bank Transfer
+1794,2024-03-18,Kathryn Bowen,P101,Wireless Mouse,Electronics,5,15.99,Canada,Bank Transfer
+1795,2024-02-16,Jessica Smith,P630,Monitor 24inch,Electronics,7,180.0,Argentina,Credit Card
+1796,2024-02-14,Jamie Moon,P410,Desk Lamp,Furniture,4,25.0,Mexico,PayPal
+1797,2024-04-21,Whitney Larson,P205,Notebook,Stationery,8,3.5,Canada,Bank Transfer
+1798,2024-02-26,Samantha Williams,P630,Monitor 24inch,Electronics,6,180.0,Canada,Bank Transfer
+1799,2024-04-04,Kenneth Campbell,P310,Office Chair,Furniture,8,120.0,Canada,Bank Transfer
+1800,2024-03-16,Kristen Mitchell,P310,Office Chair,Furniture,2,120.0,Germany,Bank Transfer
+1801,2024-04-05,Tyler Barker,P205,Notebook,Stationery,4,3.5,Germany,PayPal
+1802,2024-03-18,Donna Gonzalez,P101,Wireless Mouse,Electronics,3,15.99,Germany,Bank Transfer
+1803,2024-05-24,Scott Espinoza,P205,Notebook,Stationery,4,3.5,Colombia,Bank Transfer
+1804,2024-02-07,Jessica Mcdonald,P205,Notebook,Stationery,6,3.5,Colombia,PayPal
+1805,2024-03-22,Anthony Edwards,P101,Wireless Mouse,Electronics,1,15.99,USA,Bank Transfer
+1806,2024-03-14,Matthew Walters,P205,Notebook,Stationery,1,3.5,Chile,Bank Transfer
+1807,2024-02-29,James Vasquez,P520,Mechanical Keyboard,Electronics,2,75.0,Germany,Bank Transfer
+1808,2024-03-05,Robert Barrera MD,P520,Mechanical Keyboard,Electronics,1,75.0,Germany,Credit Card
+1809,2024-01-13,Jenna Evans,P205,Notebook,Stationery,1,3.5,USA,PayPal
+1810,2024-03-25,Jennifer Wall,P410,Desk Lamp,Furniture,6,25.0,USA,PayPal
+1811,2024-03-13,Earl Bell,P630,Monitor 24inch,Electronics,6,180.0,Colombia,Credit Card
+1812,2024-01-22,Emily Lopez,P310,Office Chair,Furniture,5,120.0,Mexico,Bank Transfer
+1813,2024-03-04,Christopher Baker,P101,Wireless Mouse,Electronics,7,15.99,Spain,PayPal
+1814,2024-06-04,Eric Johnson,P630,Monitor 24inch,Electronics,2,180.0,Canada,Bank Transfer
+1815,2024-01-03,Traci Dennis,P520,Mechanical Keyboard,Electronics,1,75.0,Colombia,Bank Transfer
+1816,2024-03-16,Lisa Jefferson,P520,Mechanical Keyboard,Electronics,3,75.0,Argentina,PayPal
+1817,2024-02-13,Kelly Soto,P630,Monitor 24inch,Electronics,3,180.0,Chile,Credit Card
+1818,2024-04-06,Brandon Hall,P310,Office Chair,Furniture,8,120.0,Chile,Bank Transfer
+1819,2024-04-14,Brandi Brown,P205,Notebook,Stationery,3,3.5,Spain,Bank Transfer
+1820,2024-05-24,Stephanie Barker,P630,Monitor 24inch,Electronics,1,180.0,Spain,Credit Card
+1821,2024-01-23,Denise Lopez,P410,Desk Lamp,Furniture,2,25.0,Argentina,Bank Transfer
+1822,2024-04-14,Charles Hudson,P310,Office Chair,Furniture,3,120.0,USA,Credit Card
+1823,2024-04-09,Anna Perkins,P205,Notebook,Stationery,3,3.5,Chile,Bank Transfer
+1824,2024-06-03,Hector Robinson,P630,Monitor 24inch,Electronics,5,180.0,Mexico,Bank Transfer
+1825,2024-02-04,Elizabeth Boyle,P205,Notebook,Stationery,7,3.5,USA,Credit Card
+1826,2024-06-26,Derek Sweeney,P310,Office Chair,Furniture,5,120.0,Colombia,Credit Card
+1827,2024-01-26,Mark Rodriguez,P310,Office Chair,Furniture,6,120.0,Mexico,Credit Card
+1828,2024-01-25,Joshua Cook,P410,Desk Lamp,Furniture,8,25.0,Argentina,PayPal
+1829,2024-05-11,Gregory Keller,P101,Wireless Mouse,Electronics,4,15.99,Spain,Credit Card
+1830,2024-06-06,Joe Collins,P410,Desk Lamp,Furniture,7,25.0,Canada,PayPal
+1831,2024-03-15,Cassie Hernandez,P101,Wireless Mouse,Electronics,5,15.99,USA,Bank Transfer
+1832,2024-02-02,James Ray,P410,Desk Lamp,Furniture,4,25.0,Colombia,Bank Transfer
+1833,2024-01-14,Tina Fuller,P410,Desk Lamp,Furniture,2,25.0,Spain,Bank Transfer
+1834,2024-06-23,Jacqueline Lowery,P630,Monitor 24inch,Electronics,8,180.0,Germany,Bank Transfer
+1835,2024-01-01,Mary David,P410,Desk Lamp,Furniture,6,25.0,Canada,PayPal
+1836,2024-03-01,Faith Levine,P101,Wireless Mouse,Electronics,7,15.99,Colombia,Bank Transfer
+1837,2024-02-29,Susan Allison,P630,Monitor 24inch,Electronics,8,180.0,Chile,Credit Card
+1838,2024-06-27,Vincent Duncan,P101,Wireless Mouse,Electronics,5,15.99,Canada,Bank Transfer
+1839,2024-01-19,Tricia Harrison,P101,Wireless Mouse,Electronics,4,15.99,Spain,Credit Card
+1840,2024-05-08,Robert Miller,P520,Mechanical Keyboard,Electronics,5,75.0,Canada,PayPal
+1841,2024-01-12,James Yates,P310,Office Chair,Furniture,4,120.0,USA,Credit Card
+1842,2024-01-24,Diana Hood,P205,Notebook,Stationery,5,3.5,USA,PayPal
+1843,2024-06-13,Dr. Tracy Davis,P310,Office Chair,Furniture,1,120.0,Argentina,Bank Transfer
+1844,2024-06-13,Kristin Estrada,P630,Monitor 24inch,Electronics,2,180.0,Colombia,PayPal
+1845,2024-04-15,James Lewis,P101,Wireless Mouse,Electronics,1,15.99,Canada,Credit Card
+1846,2024-04-26,Kevin Cardenas,P205,Notebook,Stationery,7,3.5,Germany,Credit Card
+1847,2024-01-01,Frederick Rivers,P205,Notebook,Stationery,7,3.5,USA,Credit Card
+1848,2024-03-12,Ryan Rivera,P630,Monitor 24inch,Electronics,3,180.0,Spain,PayPal
+1849,2024-03-31,Jennifer Miller,P205,Notebook,Stationery,3,3.5,Colombia,Bank Transfer
+1850,2024-04-13,Tracy Brandt DDS,P410,Desk Lamp,Furniture,1,25.0,USA,Bank Transfer
+1851,2024-05-28,Dennis Roberts,P630,Monitor 24inch,Electronics,5,180.0,USA,Credit Card
+1852,2024-03-29,Seth Scott,P101,Wireless Mouse,Electronics,3,15.99,Spain,Credit Card
+1853,2024-04-07,Tiffany Mcdaniel,P630,Monitor 24inch,Electronics,8,180.0,Spain,Credit Card
+1854,2024-05-09,Gary Sullivan,P410,Desk Lamp,Furniture,2,25.0,Mexico,PayPal
+1855,2024-05-31,Jacob Wagner,P310,Office Chair,Furniture,8,120.0,USA,Bank Transfer
+1856,2024-03-26,Edward Strong,P410,Desk Lamp,Furniture,8,25.0,USA,Credit Card
+1857,2024-06-08,Richard Burns,P205,Notebook,Stationery,6,3.5,Mexico,Credit Card
+1858,2024-06-16,Jason Salas,P205,Notebook,Stationery,7,3.5,Canada,PayPal
+1859,2024-06-22,Jennifer Warren,P410,Desk Lamp,Furniture,3,25.0,Germany,Credit Card
+1860,2024-01-22,Jason Gray,P205,Notebook,Stationery,1,3.5,Canada,Credit Card
+1861,2024-05-23,Mrs. Cheryl Jackson,P310,Office Chair,Furniture,4,120.0,Spain,Bank Transfer
+1862,2024-01-16,Michael Pena,P630,Monitor 24inch,Electronics,2,180.0,Mexico,Bank Transfer
+1863,2024-03-23,Barbara Cole,P205,Notebook,Stationery,3,3.5,Mexico,PayPal
+1864,2024-02-05,Joshua Hudson,P310,Office Chair,Furniture,3,120.0,Spain,Bank Transfer
+1865,2024-06-17,Dylan Ho,P205,Notebook,Stationery,5,3.5,Argentina,Credit Card
+1866,2024-01-14,Matthew Carter,P410,Desk Lamp,Furniture,4,25.0,Colombia,PayPal
+1867,2024-06-17,Amber Dean,P630,Monitor 24inch,Electronics,4,180.0,Canada,PayPal
+1868,2024-04-05,Amy Reed,P520,Mechanical Keyboard,Electronics,3,75.0,Spain,PayPal
+1869,2024-01-31,Angela Cox,P520,Mechanical Keyboard,Electronics,2,75.0,Chile,Credit Card
+1870,2024-04-01,Tony Rivera,P520,Mechanical Keyboard,Electronics,4,75.0,Chile,PayPal
+1871,2024-05-19,Chad Wolfe,P101,Wireless Mouse,Electronics,3,15.99,USA,Bank Transfer
+1872,2024-03-04,Daniel Cisneros,P630,Monitor 24inch,Electronics,3,180.0,Spain,Credit Card
+1873,2024-03-30,Christopher Bowman,P310,Office Chair,Furniture,4,120.0,Chile,Credit Card
+1874,2024-06-19,Jennifer Brewer,P205,Notebook,Stationery,6,3.5,Germany,Bank Transfer
+1875,2024-02-22,Jackson Lee,P520,Mechanical Keyboard,Electronics,5,75.0,USA,PayPal
+1876,2024-05-24,Anthony Burns,P310,Office Chair,Furniture,7,120.0,Mexico,PayPal
+1877,2024-01-24,Jessica Cooper,P310,Office Chair,Furniture,3,120.0,Argentina,Bank Transfer
+1878,2024-06-01,Elizabeth Rivera,P410,Desk Lamp,Furniture,5,25.0,Spain,Credit Card
+1879,2024-02-18,Kathryn Turner,P101,Wireless Mouse,Electronics,4,15.99,Spain,PayPal
+1880,2024-03-02,Scott Carter,P410,Desk Lamp,Furniture,3,25.0,Canada,Bank Transfer
+1881,2024-05-25,Scott Jones,P630,Monitor 24inch,Electronics,2,180.0,Argentina,PayPal
+1882,2024-05-05,Bryan Thompson,P205,Notebook,Stationery,1,3.5,Germany,PayPal
+1883,2024-01-07,Angela Hill,P310,Office Chair,Furniture,6,120.0,USA,Credit Card
+1884,2024-01-20,Ryan Edwards,P310,Office Chair,Furniture,8,120.0,Chile,Bank Transfer
+1885,2024-02-09,Timothy Parker,P410,Desk Lamp,Furniture,7,25.0,USA,Bank Transfer
+1886,2024-04-10,Patrick Reed,P310,Office Chair,Furniture,8,120.0,Chile,PayPal
+1887,2024-05-07,Heather Zimmerman,P520,Mechanical Keyboard,Electronics,1,75.0,Argentina,Bank Transfer
+1888,2024-02-08,Shelley Allen,P205,Notebook,Stationery,4,3.5,Colombia,Credit Card
+1889,2024-06-17,Holly Bradshaw,P101,Wireless Mouse,Electronics,2,15.99,Chile,Bank Transfer
+1890,2024-06-29,Melissa West,P310,Office Chair,Furniture,6,120.0,Mexico,Credit Card
+1891,2024-02-03,Melanie Gentry,P205,Notebook,Stationery,4,3.5,Argentina,PayPal
+1892,2024-01-19,Ashley Ryan,P205,Notebook,Stationery,2,3.5,Chile,Credit Card
+1893,2024-02-24,Kathryn Smith,P520,Mechanical Keyboard,Electronics,8,75.0,Mexico,PayPal
+1894,2024-06-13,Dr. Juan Dudley,P410,Desk Lamp,Furniture,2,25.0,Mexico,Bank Transfer
+1895,2024-04-16,Brandon Bennett,P310,Office Chair,Furniture,1,120.0,Chile,Bank Transfer
+1896,2024-02-10,Oscar Moon,P630,Monitor 24inch,Electronics,7,180.0,Colombia,Bank Transfer
+1897,2024-02-29,Christina Snyder,P310,Office Chair,Furniture,3,120.0,Germany,Bank Transfer
+1898,2024-03-28,Shawn Reeves,P630,Monitor 24inch,Electronics,7,180.0,Chile,PayPal
+1899,2024-03-03,Tamara Waters,P410,Desk Lamp,Furniture,3,25.0,Germany,PayPal
+1900,2024-04-18,Mr. Michael Nichols,P310,Office Chair,Furniture,4,120.0,Chile,PayPal
+1901,2024-06-19,Daniel Gamble,P520,Mechanical Keyboard,Electronics,6,75.0,Chile,Credit Card
+1902,2024-06-18,Michael Robinson,P630,Monitor 24inch,Electronics,3,180.0,Canada,Bank Transfer
+1903,2024-03-30,Timothy Kim,P630,Monitor 24inch,Electronics,2,180.0,Canada,Bank Transfer
+1904,2024-06-15,Stephanie Lee,P520,Mechanical Keyboard,Electronics,8,75.0,Mexico,PayPal
+1905,2024-03-11,Paul Ruiz,P205,Notebook,Stationery,6,3.5,Argentina,PayPal
+1906,2024-02-14,Theresa Garcia,P520,Mechanical Keyboard,Electronics,2,75.0,Argentina,Bank Transfer
+1907,2024-05-01,Desiree Carey,P410,Desk Lamp,Furniture,2,25.0,Chile,PayPal
+1908,2024-02-23,James Sanchez,P630,Monitor 24inch,Electronics,7,180.0,Argentina,PayPal
+1909,2024-04-28,Amber Garcia,P205,Notebook,Stationery,3,3.5,Chile,Bank Transfer
+1910,2024-02-29,Donald Smith,P310,Office Chair,Furniture,5,120.0,Mexico,PayPal
+1911,2024-04-04,Matthew Miles,P630,Monitor 24inch,Electronics,5,180.0,Mexico,PayPal
+1912,2024-02-04,Robert Kirk,P410,Desk Lamp,Furniture,3,25.0,Germany,Credit Card
+1913,2024-04-02,David Stewart,P410,Desk Lamp,Furniture,5,25.0,Mexico,Credit Card
+1914,2024-03-31,Colleen Hines,P410,Desk Lamp,Furniture,5,25.0,Chile,PayPal
+1915,2024-06-01,Michael Rivas,P630,Monitor 24inch,Electronics,3,180.0,Germany,PayPal
+1916,2024-06-24,Michael Hickman,P410,Desk Lamp,Furniture,1,25.0,USA,Credit Card
+1917,2024-05-02,Lisa Parrish,P520,Mechanical Keyboard,Electronics,4,75.0,Spain,Bank Transfer
+1918,2024-04-12,Nicholas Smith,P410,Desk Lamp,Furniture,6,25.0,Spain,Credit Card
+1919,2024-02-17,Nathaniel Mcgrath,P630,Monitor 24inch,Electronics,3,180.0,Colombia,Credit Card
+1920,2024-05-04,Lauren Mueller,P101,Wireless Mouse,Electronics,2,15.99,Mexico,Credit Card
+1921,2024-01-20,Robert Schroeder,P310,Office Chair,Furniture,4,120.0,Argentina,Bank Transfer
+1922,2024-03-13,Norman Johnson,P205,Notebook,Stationery,2,3.5,USA,PayPal
+1923,2024-06-17,Abigail Torres,P520,Mechanical Keyboard,Electronics,4,75.0,Mexico,PayPal
+1924,2024-02-18,Emily Lopez,P205,Notebook,Stationery,8,3.5,Germany,PayPal
+1925,2024-04-08,Carlos Vasquez,P520,Mechanical Keyboard,Electronics,4,75.0,Mexico,Credit Card
+1926,2024-04-30,Kathleen Barr,P410,Desk Lamp,Furniture,8,25.0,USA,Bank Transfer
+1927,2024-06-20,Kimberly Thomas,P310,Office Chair,Furniture,4,120.0,Colombia,Bank Transfer
+1928,2024-03-09,Mallory Lopez,P520,Mechanical Keyboard,Electronics,2,75.0,Chile,Bank Transfer
+1929,2024-01-20,Jason Adams,P520,Mechanical Keyboard,Electronics,4,75.0,Spain,PayPal
+1930,2024-02-03,Douglas Marshall,P310,Office Chair,Furniture,3,120.0,Germany,Credit Card
+1931,2024-02-07,Kevin Holloway,P310,Office Chair,Furniture,4,120.0,Colombia,Credit Card
+1932,2024-02-19,Stanley Herrera,P205,Notebook,Stationery,8,3.5,Colombia,Credit Card
+1933,2024-04-05,Mr. Michael Bell PhD,P101,Wireless Mouse,Electronics,4,15.99,Spain,PayPal
+1934,2024-05-22,Jonathan Campos,P630,Monitor 24inch,Electronics,7,180.0,Germany,Bank Transfer
+1935,2024-06-19,Christy Price,P101,Wireless Mouse,Electronics,8,15.99,Colombia,Bank Transfer
+1936,2024-04-04,Kyle Norton,P101,Wireless Mouse,Electronics,5,15.99,Chile,Credit Card
+1937,2024-04-05,Nicholas Leblanc,P520,Mechanical Keyboard,Electronics,1,75.0,Spain,Bank Transfer
+1938,2024-06-19,Devin Thornton,P310,Office Chair,Furniture,5,120.0,Mexico,Credit Card
+1939,2024-05-29,Diane Wiley,P520,Mechanical Keyboard,Electronics,8,75.0,Chile,PayPal
+1940,2024-05-29,Erica Bryant,P101,Wireless Mouse,Electronics,3,15.99,Chile,Credit Card
+1941,2024-01-26,Kelly Wilson,P630,Monitor 24inch,Electronics,4,180.0,Argentina,Credit Card
+1942,2024-04-19,Cesar Brown,P630,Monitor 24inch,Electronics,7,180.0,Germany,PayPal
+1943,2024-03-03,Julie Garcia,P101,Wireless Mouse,Electronics,2,15.99,Germany,Credit Card
+1944,2024-04-22,Elizabeth Meyers,P520,Mechanical Keyboard,Electronics,6,75.0,Germany,Credit Card
+1945,2024-02-03,Joseph Reese,P310,Office Chair,Furniture,4,120.0,Colombia,PayPal
+1946,2024-03-10,William Berry,P410,Desk Lamp,Furniture,7,25.0,USA,PayPal
+1947,2024-05-25,Jason Young,P520,Mechanical Keyboard,Electronics,1,75.0,Argentina,PayPal
+1948,2024-01-12,Michael Davis,P410,Desk Lamp,Furniture,5,25.0,Argentina,PayPal
+1949,2024-05-26,Jasmine Woods,P520,Mechanical Keyboard,Electronics,4,75.0,Canada,Credit Card
+1950,2024-01-17,Martha Coffey,P520,Mechanical Keyboard,Electronics,8,75.0,Argentina,Bank Transfer
+1951,2024-03-07,Donna Gonzalez,P410,Desk Lamp,Furniture,1,25.0,Chile,Credit Card
+1952,2024-02-13,Donna Wiley,P310,Office Chair,Furniture,1,120.0,Germany,Bank Transfer
+1953,2024-04-24,Gregory Mosley,P410,Desk Lamp,Furniture,4,25.0,Argentina,Credit Card
+1954,2024-06-27,Jordan Abbott,P101,Wireless Mouse,Electronics,7,15.99,Colombia,Bank Transfer
+1955,2024-06-07,Renee Jones,P101,Wireless Mouse,Electronics,8,15.99,Spain,Bank Transfer
+1956,2024-03-05,Nicole Oneill,P630,Monitor 24inch,Electronics,8,180.0,Chile,PayPal
+1957,2024-01-04,Gregory Taylor,P520,Mechanical Keyboard,Electronics,3,75.0,Chile,PayPal
+1958,2024-03-26,Daniel Gardner,P101,Wireless Mouse,Electronics,1,15.99,Colombia,Bank Transfer
+1959,2024-02-13,Rachel Lucas,P310,Office Chair,Furniture,6,120.0,Mexico,Credit Card
+1960,2024-04-20,Cheryl Klein,P520,Mechanical Keyboard,Electronics,1,75.0,Canada,Credit Card
+1961,2024-02-15,Amanda Norris,P101,Wireless Mouse,Electronics,2,15.99,Argentina,PayPal
+1962,2024-02-16,Brian Campbell,P520,Mechanical Keyboard,Electronics,8,75.0,Germany,Credit Card
+1963,2024-03-21,Michelle Franklin,P520,Mechanical Keyboard,Electronics,5,75.0,Spain,PayPal
+1964,2024-04-07,Susan Clark,P520,Mechanical Keyboard,Electronics,8,75.0,Argentina,Bank Transfer
+1965,2024-04-21,Joseph Grant,P310,Office Chair,Furniture,3,120.0,Argentina,Bank Transfer
+1966,2024-05-07,Kelly Lewis,P630,Monitor 24inch,Electronics,3,180.0,Argentina,PayPal
+1967,2024-02-24,Cathy Jackson,P101,Wireless Mouse,Electronics,3,15.99,USA,PayPal
+1968,2024-06-24,Brian Hanson,P101,Wireless Mouse,Electronics,6,15.99,Spain,PayPal
+1969,2024-04-28,Mr. Carlos Gonzales MD,P630,Monitor 24inch,Electronics,5,180.0,Colombia,Credit Card
+1970,2024-02-01,Michelle Young,P205,Notebook,Stationery,5,3.5,Germany,Credit Card
+1971,2024-02-08,Catherine Banks MD,P630,Monitor 24inch,Electronics,4,180.0,Mexico,Credit Card
+1972,2024-06-17,Joseph Wilson,P101,Wireless Mouse,Electronics,2,15.99,Chile,Credit Card
+1973,2024-04-22,Garrett Lopez,P310,Office Chair,Furniture,1,120.0,Colombia,Bank Transfer
+1974,2024-01-18,Cassandra Harvey,P630,Monitor 24inch,Electronics,4,180.0,USA,Bank Transfer
+1975,2024-05-24,Jo Stewart,P205,Notebook,Stationery,6,3.5,Spain,PayPal
+1976,2024-06-10,Cody Simmons,P410,Desk Lamp,Furniture,4,25.0,Mexico,PayPal
+1977,2024-01-01,Lori Rodriguez,P310,Office Chair,Furniture,8,120.0,Canada,PayPal
+1978,2024-05-29,Thomas Myers,P630,Monitor 24inch,Electronics,7,180.0,Canada,Bank Transfer
+1979,2024-03-31,Desiree Riddle,P310,Office Chair,Furniture,1,120.0,Germany,Bank Transfer
+1980,2024-01-26,Thomas Walker,P520,Mechanical Keyboard,Electronics,8,75.0,Germany,PayPal
+1981,2024-05-30,William Jordan,P101,Wireless Mouse,Electronics,5,15.99,Chile,Bank Transfer
+1982,2024-01-13,Gabriel Young,P520,Mechanical Keyboard,Electronics,5,75.0,Germany,PayPal
+1983,2024-02-03,Mrs. Kara Tanner,P310,Office Chair,Furniture,1,120.0,Germany,Bank Transfer
+1984,2024-02-23,Lindsay Waters,P630,Monitor 24inch,Electronics,1,180.0,USA,PayPal
+1985,2024-06-15,Joshua Sanchez,P520,Mechanical Keyboard,Electronics,8,75.0,USA,PayPal
+1986,2024-06-19,David Davidson,P630,Monitor 24inch,Electronics,7,180.0,Canada,Credit Card
+1987,2024-03-16,Steven Gross,P205,Notebook,Stationery,3,3.5,USA,Bank Transfer
+1988,2024-06-15,William Mitchell,P410,Desk Lamp,Furniture,8,25.0,Argentina,Credit Card
+1989,2024-02-18,Randall Hartman,P205,Notebook,Stationery,4,3.5,Argentina,Bank Transfer
+1990,2024-06-21,Alexa Nunez,P205,Notebook,Stationery,5,3.5,Spain,PayPal
+1991,2024-01-08,Ashley Rice,P310,Office Chair,Furniture,4,120.0,USA,Credit Card
+1992,2024-02-11,Brian Johnson,P520,Mechanical Keyboard,Electronics,1,75.0,Spain,PayPal
+1993,2024-01-15,David Rodriguez,P310,Office Chair,Furniture,5,120.0,Argentina,Credit Card
+1994,2024-02-05,Robert Palmer,P410,Desk Lamp,Furniture,7,25.0,Germany,Credit Card
+1995,2024-05-20,Philip Huynh,P101,Wireless Mouse,Electronics,4,15.99,Mexico,Bank Transfer
+1996,2024-06-02,Brandon Mitchell,P310,Office Chair,Furniture,6,120.0,Spain,Credit Card
+1997,2024-01-26,Jennifer Lee,P101,Wireless Mouse,Electronics,3,15.99,Germany,Credit Card
+1998,2024-01-08,Douglas Williams,P101,Wireless Mouse,Electronics,8,15.99,Chile,Bank Transfer
+1999,2024-04-30,Chelsea Klein,P101,Wireless Mouse,Electronics,2,15.99,Canada,PayPal
+2000,2024-02-22,Donald Hudson,P410,Desk Lamp,Furniture,3,25.0,Spain,Bank Transfer
